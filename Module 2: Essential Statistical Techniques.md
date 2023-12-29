@@ -9,4 +9,7 @@ The test essentially assesses whether the observed differences between the group
 The t-test is based on the t-statistic, which is calculated using the formula:
 
 
-![alt text](https://miro.medium.com/v2/resize:fit:1400/1*YXr3MuM8cUOYjoyBv9ocZg.png | width=100)
+![alt text](https://miro.medium.com/v2/resize:fit:1400/1*YXr3MuM8cUOYjoyBv9ocZg.png)
+
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*YXr3MuM8cUOYjoyBv9ocZg.png" width="400" height="790">
