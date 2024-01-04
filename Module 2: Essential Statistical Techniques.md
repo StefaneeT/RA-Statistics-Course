@@ -59,43 +59,12 @@ The t-test is based on the t-statistic, which is calculated using the formula:
 The formula for the two-sample t-test, also known as the Student’s t-test, is presented below:
 In this equation:
 
-�
-t represents the t value,
-�
-ˉ
-1
-x
-ˉ
+- t represents the t value,
+- x1 and x2 are the means of the two groups being compared,
+- is the pooled standard error of the two groups,
+- denote the number of observations in each of the groups.
+- denote the number of observations in each of the groups.
   
-1
-​
-  and 
-�
-ˉ
-2
-x
-ˉ
-  
-2
-​
-  are the means of the two groups being compared,
-�
-2
-s 
-2
-  is the pooled standard error of the two groups,
-�
-1
-n 
-1
-​
-  and 
-�
-2
-n 
-2
-​
-  denote the number of observations in each of the groups.
 A higher t value indicates that the difference between group means surpasses the pooled standard error, signifying a more substantial difference between the groups.
 
 To assess the significance of your findings, compare the calculated t value with the values in a critical value chart, such as the Student’s t-table. If your t value exceeds what would be expected by chance, you can reject the null hypothesis, suggesting a genuine difference between the two groups.
@@ -104,4 +73,5 @@ T-test Function in Statistical Software:
 
 Most statistical software packages like R, SPSS, etc., offer a built-in t-test function. This feature takes your raw data, computes the t value, compares it to the critical value, and calculates a p-value. This streamlined process allows you to promptly determine whether your groups exhibit statistical differences.
 
-In your analysis of flower petal lengths, if you choose to conduct a t-test using R, the code would resemble the following:
+In your analysis of maternal health outcomes, if you choose to conduct a t-test using R, the code would resemble the following:
+t.test(maternal_health ~ race, data = data)
