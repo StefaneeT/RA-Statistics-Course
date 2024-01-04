@@ -78,11 +78,11 @@ t.test(maternal_health ~ race, data = data)
 
 # Interpreting Test Results
 
-# data:  maternal_health by racial_background
-# t = -2.3456, df = 98, p-value = 0.02134
-# alternative hypothesis: true difference in means is not equal to 0
-# 95 percent confidence interval:
-# -0.6748 -0.0432
-# sample estimates:
-# mean in group Black mean in group Other 
-#                5.678               6.123
+data:  maternal_health by racial_background
+t = -2.3456, df = 98, p-value = 0.02134
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+-0.6748 -0.0432
+sample estimates:
+mean in group Black mean in group Other 
+                5.678               6.123
