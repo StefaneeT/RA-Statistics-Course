@@ -69,9 +69,20 @@ A higher t value indicates that the difference between group means surpasses the
 
 To assess the significance of your findings, compare the calculated t value with the values in a critical value chart, such as the Student’s t-table. If your t value exceeds what would be expected by chance, you can reject the null hypothesis, suggesting a genuine difference between the two groups.
 
-T-test Function in Statistical Software:
+# T-test Function in Statistical Software:
 
 Most statistical software packages like R, SPSS, etc., offer a built-in t-test function. This feature takes your raw data, computes the t value, compares it to the critical value, and calculates a p-value. This streamlined process allows you to promptly determine whether your groups exhibit statistical differences.
 
 In your analysis of maternal health outcomes, if you choose to conduct a t-test using R, the code would resemble the following:
 t.test(maternal_health ~ race, data = data)
+
+# Interpreting Test Results
+
+# data:  maternal_health by racial_background
+# t = -2.3456, df = 98, p-value = 0.02134
+# alternative hypothesis: true difference in means is not equal to 0
+# 95 percent confidence interval:
+# -0.6748 -0.0432
+# sample estimates:
+# mean in group Black mean in group Other 
+#                5.678               6.123
