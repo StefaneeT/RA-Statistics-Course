@@ -92,6 +92,18 @@ t.test(maternal_health ~ race, data = data)
 
 
 
+| Statistic               | Value       |
+|-------------------------|-------------|
+| **T-Statistic (t)**      | -2.3456     |
+| **Degrees of Freedom**   | 98          |
+|alternative hypothesis: true difference in means is not equal to 0|
+| **P-Value**              | 0.02134     |
+| ** 95 Percent Confidence Interval**  | (-0.6748, -0.0432) |
+|  sample estimates:       |
+|-------------------------|-------------|
+| **Mean (Black Women)**   | 5.678       |
+| **Mean (Other Women)**   | 6.123       |
+
 data:  maternal_health by racial_background
 t = -2.3456, df = 98, p-value = 0.02134
 alternative hypothesis: true difference in means is not equal to 0
