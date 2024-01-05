@@ -85,7 +85,16 @@ data:  maternal_health by racial_background
 | **T-Statistic (t)**      | -2.3456     |
 | **Degrees of Freedom**   | 98          |
 | **P-Value**              | 0.02134     |
+|** Alternative Hypothesis | true difference in means is not equal to 0|
 | **Confidence Interval**  | (-0.6748, -0.0432) |
 | **Mean (Black Women)**   | 5.678       |
 | **Mean (Other Women)**   | 6.123       |
 
+The analysis provides the following insights:
+1. A description of the comparison under investigation, focusing on Maternal Health Outcomes between Black Women and Other Racial Backgrounds.
+2. The t-value: -2.3456. Note that it’s negative; in most cases, we are concerned with the absolute value, representing the distance from 0. The direction does not matter.
+3. The degrees of freedom: 98. This factor is linked to the sample size, indicating the number of 'free' data points for meaningful comparisons. Greater degrees of freedom enhance the effectiveness of the statistical test.
+4. The p-value: 0.02134. This signifies the likelihood of observing a t-value like this one obtained by chance.
+5. The alternative hypothesis (Ha): There is a significant difference in maternal health outcomes.
+6. The 95% confidence interval: (-0.6748, -0.0432). This range represents the probable values for the true difference in means 95% of the time. The confidence level can be adjusted if a larger or smaller interval is preferred, though 95% is commonly used.
+7. The Mean maternal health for each group
