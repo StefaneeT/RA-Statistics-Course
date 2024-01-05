@@ -98,3 +98,6 @@ The analysis provides the following insights:
 5. The alternative hypothesis (Ha): There is a significant difference in maternal health outcomes.
 6. The 95% confidence interval: (-0.6748, -0.0432). This range represents the probable values for the true difference in means 95% of the time. The confidence level can be adjusted if a larger or smaller interval is preferred, though 95% is commonly used.
 7. The Mean maternal health for each group
+
+
+From the output table, we can see that the difference in means for our sample data is −0.445 (5.678 − 6.123), and the confidence interval shows that the true difference in means is between −0.6748 and −0.0432. So, 95% of the time, the true difference in means will be different from 0. Our p value of 0.02132 which is smaller than 0.05, so we can reject the null hypothesis of no difference and say with a high degree of confidence that the true difference in means is not equal to zero.
