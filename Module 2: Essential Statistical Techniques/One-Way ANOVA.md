@@ -14,4 +14,5 @@ Utilize a one-way ANOVA when you have data related to one categorical independen
 ANOVA aids in discerning whether the dependent variable exhibits variations based on the levels of the independent variable.
 
 In the context of maternal health for black women example, the independent variable could be healthcare interventions, which could be categorized into low, medium, and high levels to investigate potential differences in maternal health outcomes.
-The null hypothesis (H0) in ANOVA is that there is no disparity among group means, while the alternative hypothesis (Ha) suggests that at least one group significantly deviates from the overall mean of the dependent variable.
+The null hypothesis (H0) in ANOVA is that there is no disparity among group means.
+The alternative hypothesis (Ha) suggests that at least one group significantly deviates from the overall mean of the dependent variable.
