@@ -18,6 +18,14 @@ Utilize a one-way ANOVA when you have data related to one categorical independen
 
 ANOVA aids in discerning whether the dependent variable exhibits variations based on the levels of the independent variable.
 
-In the context of maternal health for black women example, the independent variable could be healthcare interventions, which could be categorized into low, medium, and high levels to investigate potential differences in maternal health outcomes.
-The null hypothesis (H0) in ANOVA is that there is no disparity among group means.
-The alternative hypothesis (Ha) suggests that at least one group significantly deviates from the overall mean of the dependent variable.
+If you only want to compare two groups, use a t test instead.
+
+The ANOVA test assumes that your data:
+
+1. Are independent
+2. Are (approximately) normally distributed
+3. Exhibit a similar level of variance within each group being compared, known as homogeneity of variance
+
+# Mathmatical Foundation
+
+<img src="[https://microbenotes.com/wp-content/uploads/2023/08/T-Test-Formula.jpeg](https://cdn1.byjus.com/wp-content/uploads/2020/09/one-way-ANOVA-formulas.png)https://cdn1.byjus.com/wp-content/uploads/2020/09/one-way-ANOVA-formulas.png" width="800" height="400">
