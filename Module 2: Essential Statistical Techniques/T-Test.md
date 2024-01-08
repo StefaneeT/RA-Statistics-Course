@@ -5,7 +5,7 @@ It is particularly useful when dealing with small sample sizes and normally dist
 The test essentially assesses whether the observed differences between the groups are likely due to real effects or are merely the result of random chance.
 
 # T-Test Example
- You want to know if there is there a statistically significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds? 
+ You want to know if there is there a statistically significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds.
  You can test the difference between racial/ethnic backgrounds using a t-test and null and alternative hypotheses.
 
 Null Hypothesis (H0): There is no significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds.
