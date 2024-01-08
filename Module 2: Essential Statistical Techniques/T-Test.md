@@ -55,15 +55,6 @@ As your interest lies in determining whether there is any difference without spe
 The t-test is based on the t-statistic, which is calculated using the formula:
 
 <img src="https://microbenotes.com/wp-content/uploads/2023/08/T-Test-Formula.jpeg" width="800" height="400">
-
-The formula for the two-sample t-test, also known as the Student’s t-test, is presented below:
-In this equation:
-
-- t represents the t value,
-- x1 and x2 are the means of the two groups being compared,
-- is the pooled standard error of the two groups,
-- denote the number of observations in each of the groups.
-- denote the number of observations in each of the groups.
   
 A higher t value indicates that the difference between group means surpasses the pooled standard error, signifying a more substantial difference between the groups.
 
