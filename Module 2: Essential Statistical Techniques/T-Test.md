@@ -54,7 +54,7 @@ As your interest lies in determining whether there is any difference without spe
 
 The t-test is based on the t-statistic, which is calculated using the formula:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmicrobenotes.com%2Ft-test%2F&psig=AOvVaw2CXj630t3V5uOzyttM-5lj&ust=1704817879452000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMigv9ibzoMDFQAAAAAdAAAAABAD.png" width="700" height="500">
+<img src="https://microbenotes.com/wp-content/uploads/2023/08/T-Test-Formula.jpeg" width="700" height="500">
 
 The formula for the two-sample t-test, also known as the Student’s t-test, is presented below:
 In this equation:
