@@ -5,7 +5,12 @@ In the context of ANOVA, a one-way test involves a single independent variable, 
 
 # ANOVA Example
 
-As a researcher in maternal health for black women outcomes, you may want to investigate the impact of three different healthcare interventions on maternal health outcomes. You can use a one-way ANOVA to determine whether there are significant differences in maternal health outcomes among the three intervention groups. This statistical analysis can help identify potential disparities and the effectiveness of different interventions in improving maternal health for black women.
+You want to examine if the type of support system (family, friends, professional counseling) influence the mental health outcomes of LGBTQIA individuals, and if there are significant differences in mental health scores among these groups.
+
+Your independent variable is the type of support system (family, friends, professional counseling), and you categorize individuals into groups based on the level of support they receive. The aim is to investigate potential differences in mental health scores among LGBTQIA individuals based on the type of support they have.
+The null hypothesis (H0) asserts that there is no substantial difference among group means.
+
+The alternative hypothesis (Ha) is that at least one group significantly deviates from the overall mean of the dependent variable (mental health scores).
 
 # When should you use a One-Way ANOVA?
 
