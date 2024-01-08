@@ -28,4 +28,4 @@ The ANOVA test assumes that your data:
 
 # Mathmatical Foundation
 
-<img src="[[https://microbenotes.com/wp-content/uploads/2023/08/T-Test-Formula.jpeg](https://cdn1.byjus.com/wp-content/uploads/2020/09/one-way-ANOVA-formulas.png)https://cdn1.byjus.com/wp-content/uploads/2020/09/one-way-ANOVA-formulas.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbyjus.com%2Fanova-formula%2F&psig=AOvVaw0gE75gFEjIPl8i9cUFPUGJ&ust=1704833768020000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDS8vPWzoMDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fbyjus.com%2Fanova-formula%2F&psig=AOvVaw0gE75gFEjIPl8i9cUFPUGJ&ust=1704833768020000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDS8vPWzoMDFQAAAAAdAAAAABAD" width="800" height="400">
+<img src="https://cdn.testbook.com/images/seo/one-way-ANOVA-formulas.png" width="800" height="400">
