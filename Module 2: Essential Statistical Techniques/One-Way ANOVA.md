@@ -29,3 +29,37 @@ The ANOVA test assumes that your data:
 # Mathmatical Foundation
 
 <img src="https://cdn.testbook.com/images/seo/one-way-ANOVA-formulas.png" width="800" height="400">
+
+
+Here's a way to express it:
+F = MST/MSE
+MST = SST/ p-1
+MSE = SSE/N-p
+SSE = ∑ (n−1)
+s2
+
+Let's break down the variables:
+
+F = Anova Coefficient
+
+MSB = Mean sum of squares between the groups
+
+MSW = Mean sum of squares within the groups
+
+MSE = Mean sum of squares due to error
+
+SST = total Sum of squares
+
+p = Total number of populations
+
+n = The total number of samples in a population
+
+SSW = Sum of squares within the groups
+
+SSB = Sum of squares between the groups
+
+SSE = Sum of squares due to error
+
+s = Standard deviation of the samples
+
+N = Total number of observations
