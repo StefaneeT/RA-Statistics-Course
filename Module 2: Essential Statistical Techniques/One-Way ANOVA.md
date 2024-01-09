@@ -78,17 +78,17 @@ summary(anova_result)
 | Support_System  | 2    | 300.5  | 150.2   | 6.75    | 0.0012** |
 | Residuals       | 147  | 1800.3 | 12.2    |         |          |
 
-Df (Degrees of Freedom):
+⋅⋅* Df (Degrees of Freedom):
 1. Support_System: 2 degrees of freedom for the support system variable.
 2. Residuals: 147 degrees of freedom for the error term.
-Sum Sq (Sum of Squares):
+⋅⋅* Sum Sq (Sum of Squares):
 3. Support_System: 300.5, representing the sum of squared differences between group means.
 4. Residuals: 1800.3, representing the sum of squared differences within each group.
-Mean Sq (Mean Square):
+⋅⋅* Mean Sq (Mean Square):
 
 5. Support_System: 150.2, calculated as the sum of squares divided by the degrees of freedom.
 6. Residuals: 12.2, representing the mean squared differences within each group.
-F value (ANOVA F-statistic):
+⋅⋅* F value (ANOVA F-statistic):
 7. 6.75, indicating the ratio of variance between group means to variance within groups. A higher F value suggests a higher likelihood of significant differences.
 Pr(>F) (p-value):
 
