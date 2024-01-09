@@ -68,4 +68,8 @@ N = Total number of observations
 You can use the command aov() to run an ANOVA.
 
 In your analysis of support system influence the mental health outcomes of LGBTQIA individuals, if you choose to conduct an ANOVA using R, the code would resemble something similar to the following: anova_result <- aov(Mental_Health_Scores ~ Support_System, data = data)
+--
+summary(anova_result)
+
+# Interpretting Test Results
 
