@@ -91,6 +91,7 @@ summary(anova_result)
   * 6.75, indicating the ratio of variance between group means to variance within groups. A higher F value suggests a higher likelihood of significant differences.
 * Pr(>F) (p-value):
   * 0.0012, a small p-value (< 0.05) suggests that there are significant differences in mental health scores among different support systems.
+    * The notation "**" indicates a high level of significance.
 
 The p-value (0.0012) is less than the commonly used significance level of 0.05. Therefore, we reject the null hypothesis. This suggests that there are significant differences in mental health scores among the different support systems (family, friends, counseling). The one-way ANOVA results provide evidence to support the idea that the type of support system influences mental health outcomes in LGBTQIA individuals.
 
