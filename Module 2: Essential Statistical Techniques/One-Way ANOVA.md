@@ -95,3 +95,11 @@ summary(anova_result)
 
 The p-value (0.0012) is less than the commonly used significance level of 0.05. Therefore, we reject the null hypothesis. This suggests that there are significant differences in mental health scores among the different support systems (family, friends, counseling). The one-way ANOVA results provide evidence to support the idea that the type of support system influences mental health outcomes in LGBTQIA individuals.
 
+# Post-hoc Testing
+
+ANOVA serves to identify differences among the levels of the independent variable, but it doesn't specify which differences are statistically significant. To ascertain how the support system levels differ from one another, consider conducting a TukeyHSD (Tukey’s Honestly-Significant Difference) post-hoc test.
+
+The R Code for the support system influence the mental health outcomes of LGBTQIA individuals would look similar to this:
+tukey_result <- TukeyHSD(anova_result)
+tukey_result
+
