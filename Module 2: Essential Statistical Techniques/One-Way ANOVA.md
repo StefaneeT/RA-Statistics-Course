@@ -38,7 +38,7 @@ MSE = SSE/N-p
 SSE = ∑ (n−1)
 s2
 
-Let's break down the variables:
+Here is a break down the variables:
 
 F = Anova Coefficient
 
