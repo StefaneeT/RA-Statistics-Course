@@ -78,7 +78,7 @@ summary(anova_result)
 | Support_System  | 2    | 300.5  | 150.2   | 6.75    | 0.0012** |
 | Residuals       | 147  | 1800.3 | 12.2    |         |          |
 
-⋅⋅* Df (Degrees of Freedom):
+* Df (Degrees of Freedom):
 1. Support_System: 2 degrees of freedom for the support system variable.
 2. Residuals: 147 degrees of freedom for the error term.
 ⋅⋅* Sum Sq (Sum of Squares):
