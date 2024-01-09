@@ -79,20 +79,18 @@ summary(anova_result)
 | Residuals       | 147  | 1800.3 | 12.2    |         |          |
 
 * Df (Degrees of Freedom):
-1. Support_System: 2 degrees of freedom for the support system variable.
-2. Residuals: 147 degrees of freedom for the error term.
+  * Support_System: 2 degrees of freedom for the support system variable.
+  * Residuals: 147 degrees of freedom for the error term.
 * Sum Sq (Sum of Squares):
-3. Support_System: 300.5, representing the sum of squared differences between group means.
-4. Residuals: 1800.3, representing the sum of squared differences within each group.
+  * Support_System: 300.5, representing the sum of squared differences between group means.
+  * Residuals: 1800.3, representing the sum of squared differences within each group.
 * Mean Sq (Mean Square):
-
-5. Support_System: 150.2, calculated as the sum of squares divided by the degrees of freedom.
-6. Residuals: 12.2, representing the mean squared differences within each group.
+  * Support_System: 150.2, calculated as the sum of squares divided by the degrees of freedom.
+  * Residuals: 12.2, representing the mean squared differences within each group.
 * F value (ANOVA F-statistic):
-7. 6.75, indicating the ratio of variance between group means to variance within groups. A higher F value suggests a higher likelihood of significant differences.
+  * 6.75, indicating the ratio of variance between group means to variance within groups. A higher F value suggests a higher likelihood of significant differences.
 * Pr(>F) (p-value):
-
-8. 0.0012, a small p-value (< 0.05) suggests that there are significant differences in mental health scores among different support systems.
+  * 0.0012, a small p-value (< 0.05) suggests that there are significant differences in mental health scores among different support systems.
 
 The p-value (0.0012) is less than the commonly used significance level of 0.05. Therefore, we reject the null hypothesis. This suggests that there are significant differences in mental health scores among the different support systems (family, friends, counseling). The one-way ANOVA results provide evidence to support the idea that the type of support system influences mental health outcomes in LGBTQIA individuals.
 
