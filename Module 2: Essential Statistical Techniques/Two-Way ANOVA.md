@@ -22,3 +22,31 @@ ANOVA assumptions for two-way ANOVA are similar to those of one-way ANOVA: indep
 
 # Mathematical Foundation for Two-Way ANOVA
 The formula for the F-statistic in two-way ANOVA involves Mean Squares for both factors (independent variables) and their interaction, similar to the one-way ANOVA.
+
+Here's a way to express it:
+F = MSA/MSE
+
+* MSA is the Mean Square for Factor A (first independent variable)
+* MSE is the Mean Square Error
+* F is the F-statistic
+
+# Two-Way ANOVA Function in Statistical Software
+The code for running a two-way ANOVA in R is similar to the one-way ANOVA code, with the addition of the second independent variable. For example:
+anova_result_two_way=aov(Mental_Health_Scores ∼ Support_System ∗ Gender, data=data)
+
+# Interpreting Two-Way ANOVA Results
+The output of a two-way ANOVA includes the following information:
+
+* Main effects for each independent variable.
+* Interaction effect between the two independent variables.
+* Degrees of freedom, sum of squares, mean squares, and F-values for each effect.
+* P-values indicating the significance of each effect.
+
+Similar to one-way ANOVA, a small p-value (< 0.05) suggests significant differences, and you may need to conduct post-hoc tests to identify specific group differences.
+
+# Post-hoc Testing
+Post-hoc tests, such as TukeyHSD, can be employed to explore specific group differences.
+
+
+
+
