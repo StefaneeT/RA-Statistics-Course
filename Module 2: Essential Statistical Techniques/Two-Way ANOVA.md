@@ -24,7 +24,7 @@ ANOVA assumptions for two-way ANOVA are similar to those of one-way ANOVA: indep
 The formula for the F-statistic in two-way ANOVA involves Mean Squares for both factors (independent variables) and their interaction, similar to the one-way ANOVA.
 
 Here's a way to express it:
-F = MSA/MSE
+<br> F = MSA/MSE
 
 * MSA is the Mean Square for Factor A (first independent variable)
 * MSE is the Mean Square Error
