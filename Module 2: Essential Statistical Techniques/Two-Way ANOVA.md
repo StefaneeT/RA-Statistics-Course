@@ -9,9 +9,9 @@ Let's consider an example where you want to investigate the effects of both the 
 
 Your aim is to explore whether there are significant differences in mental health scores based on both the type of support system and gender, and if there is any interaction effect between these two factors.
 
-The null hypothesis (H0) asserts that there is no substantial difference among group means, and there is no interaction effect between the two independent variables.
+<br> The null hypothesis (H0) asserts that there is no substantial difference among group means, and there is no interaction effect between the two independent variables.
 
-The alternative hypothesis (Ha) is that at least one group significantly deviates from the overall mean of the dependent variable (mental health scores), and there might be an interaction effect between the two independent variables.
+<br> The alternative hypothesis (Ha) is that at least one group significantly deviates from the overall mean of the dependent variable (mental health scores), and there might be an interaction effect between the two independent variables.
 
 # When should you use a Two-Way ANOVA?
 Utilize a two-way ANOVA when you have data related to two categorical independent variables and one quantitative dependent variable. The independent variables should encompass at least two levels each, forming distinct groups or categories.
@@ -32,7 +32,7 @@ Here's a way to express it:
 
 # Two-Way ANOVA Function in Statistical Software
 The code for running a two-way ANOVA in R is similar to the one-way ANOVA code, with the addition of the second independent variable. For example:
-anova_result_two_way=aov(Mental_Health_Scores ∼ Support_System ∗ Gender, data=data)
+<br> anova_result_two_way=aov(Mental_Health_Scores ∼ Support_System ∗ Gender, data=data)
 
 # Interpreting Two-Way ANOVA Results
 The output of a two-way ANOVA includes the following information:
