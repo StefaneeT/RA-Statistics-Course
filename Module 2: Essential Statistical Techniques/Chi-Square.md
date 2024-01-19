@@ -26,3 +26,6 @@ Mathematically, these tests are identical. However, they are commonly perceived 
 
 ## Chi-square goodness of fit test
 This test is employed when dealing with a single categorical variable. It enables the examination of whether the frequency distribution of the categorical variable significantly deviates from the expected distribution. The expectation, although not always, is frequently based on the assumption that the categories will exhibit equal proportions.
+
+## Chi-square test of independence
+The chi-square test of independence is applicable when dealing with two categorical variables. It enables the examination of the relationship between these two variables. In the case of independence, the probability of belonging to a particular group for one variable remains unaffected by the presence of the other variable.
