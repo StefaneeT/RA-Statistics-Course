@@ -49,4 +49,4 @@ Executing a chi-square test, whether Pearson’s or otherwise, involves several 
 * Maintain two significant digits after the decimal point.
 * Present the chi-square alongside its degrees of freedom, sample size, and p-value following this format: Χ² (degrees of freedom, N = sample size) = chi-square value, p = p-value.
 
-Example: There was no significant relationship between healthcare utilization and nationality, Χ2 (1, N = 428) = 0.44, p = .505.
+Example: There was no significant relationship between healthcare utilization and nationality, Χ² (1, N = 428) = 0.44, p = .505.
