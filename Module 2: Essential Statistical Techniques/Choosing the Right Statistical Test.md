@@ -44,3 +44,11 @@ Select the appropriate test based on the types of predictor and outcome variable
 
 
 # Regression Tests
+
+| Regression Type            | Predictor Variable   | Outcome Variable | Research Question Example |
+|----------------------------|----------------------|------------------|---------------------------|
+|Simple linear regression    |   * Continous                                                       |
+                                 * 1 predictor
+|Multiple linear regression  |                                                                     |
+|Logistic regression         |                                                                     |
+
