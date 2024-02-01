@@ -44,10 +44,36 @@ Select the appropriate test based on the types of predictor and outcome variable
 
 
 # Regression Tests
+Regression tests seek to identify cause-and-effect connections. 
 
-| Regression Type            | Predictor Variable              | Outcome Variable                     |
+| Regression Test            | Predictor Variable              | Outcome Variable                     |
 |----------------------------|---------------------------------|--------------------------------------|
 |Simple linear regression    | Continuous, 1 Predictor         | Continuous, 1 Outcome                |
 |Multiple linear regression  |Continuous, 2 or more Predictors | Continuous, 1 Outcome                |
 |Logistic regression         | Continuous                      | Binary                               |
 
+
+# Comparison tests
+Comparison tests look for differences among group means. 
+
+| Comparision Test           | Predictor Variable              | Outcome Variable                     |
+|----------------------------|---------------------------------|--------------------------------------|
+|ANOVA                       |Categorical, 1 or more predictor | Quantitative, 1 outcome              |
+|MANOVA                      |Categorical, 1 or more predictor | Quantitative, 2 or more outcomes     |
+|Paired T-Test               |Categorical, 1 predictor         | Quantitative, groups come from the same population|
+|Independent T-Test          |Categorical, 1 predictor         | Quantitative, groups come from different populations|
+
+# Correlation Test
+Correlation tests determine if variables exhibit a relationship without implying a cause-and-effect association.
+
+| Correlation Test           | Variables                       |
+|----------------------------|---------------------------------|
+|Pearson's r                 |2 continuous variables           |
+
+
+# Non-Parametric tests
+Non-parametric tests are less reliant on data assumptions and prove beneficial when common statistical assumptions are violated. However, the conclusions drawn from them are not as robust as those derived from parametric tests.
+
+| Non-Parametric Test        | Predictor Variable              | Outcome Variable                     |
+|----------------------------|---------------------------------|--------------------------------------|
+|Chi square test of Independence|Quantitative | Quantitative              |
