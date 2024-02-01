@@ -80,4 +80,4 @@ Non-parametric tests are less reliant on data assumptions and prove beneficial w
 |Chi square test of Independence|Quantitative | Quantitative              |
 
 
-<img src="https://www.statisticalaid.com/wp-content/uploads/2022/09/statistical-test.png" width="800" height="400">
+<img src="https://www.statisticalaid.com/wp-content/uploads/2022/09/statistical-test.png" width="800" height="800">
