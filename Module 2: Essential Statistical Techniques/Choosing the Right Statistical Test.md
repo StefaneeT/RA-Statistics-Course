@@ -73,7 +73,11 @@ Correlation tests determine if variables exhibit a relationship without implying
 
 # Non-Parametric tests
 Non-parametric tests are less reliant on data assumptions and prove beneficial when common statistical assumptions are violated. However, the conclusions drawn from them are not as robust as those derived from parametric tests.
+  
 
 | Non-Parametric Test        | Predictor Variable              | Outcome Variable                     |
 |----------------------------|---------------------------------|--------------------------------------|
 |Chi square test of Independence|Quantitative | Quantitative              |
+
+
+<img src="https://www.statisticalaid.com/wp-content/uploads/2022/09/statistical-test.png" width="800" height="400">
