@@ -22,4 +22,13 @@ In addition to these assumptions, linear regression has one more:
 
 If your data fail to meet the assumptions of homoscedasticity or normality, you might consider using a nonparametric test like the Spearman rank test.
 
-# How to Perform Simple Linear Regression
+# Simple Linear Regression Formula
+<img src="https://www.scribbr.com/wp-content/ql-cache/quicklatex.com-24c2acc90e12e44ba70f7cae7508ae7e_l3.png" width="400" height="400">
+
+* y represents the anticipated value of the dependent variable (y) corresponding to any given value of the independent variable (x).
+* B0 denotes the intercept, indicating the anticipated value of y when x is 0.
+* B1 signifies the regression coefficient – indicating the extent to which we anticipate y to change as x increases.
+* x stands for the independent variable (the variable we anticipate influences y).
+* e represents the error of the estimate, indicating the degree of variation in our estimation of the regression coefficient.
+  
+Linear regression determines the best-fit line through the data by seeking the regression coefficient (B1) that minimizes the total error (e) of the model.
