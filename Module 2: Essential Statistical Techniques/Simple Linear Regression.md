@@ -23,7 +23,7 @@ In addition to these assumptions, linear regression has one more:
 If your data fail to meet the assumptions of homoscedasticity or normality, you might consider using a nonparametric test like the Spearman rank test.
 
 # Simple Linear Regression Formula
-<img src="https://www.scribbr.com/wp-content/ql-cache/quicklatex.com-24c2acc90e12e44ba70f7cae7508ae7e_l3.png" width="200" height="50">
+<img src="https://www.scribbr.com/wp-content/ql-cache/quicklatex.com-24c2acc90e12e44ba70f7cae7508ae7e_l3.png" width="200" height="25">
 
 * y represents the anticipated value of the dependent variable (y) corresponding to any given value of the independent variable (x).
 * B0 denotes the intercept, indicating the anticipated value of y when x is 0.
