@@ -41,3 +41,22 @@ Example R Code: model <- lm(health_outcomes ~ doctor_visits, data = data)
 
 # Interpreting the Results
 Example R Code: summary(model)
+
+
+| Coefficients     | Estimate | Std. Error | t value | Pr(>|t|) |
+|------------------|----------|------------|---------|----------|
+| (Intercept)      | 62.35338 | 4.41048    | 14.141  | 3.43e-06 |
+| doctor_visits    | 1.47425  | 0.26308    | 5.606   | 0.000595 |
+
+- Residual standard error: 1.906 on 8 degrees of freedom
+- Multiple R-squared: 0.7917, Adjusted R-squared: 0.7669
+- F-statistic: 31.45 on 1 and 8 DF, p-value: 0.0005951
+
+Coefficients:
+
+* Intercept (62.35338): This represents the estimated health outcome when the number of doctor visits is zero. It implies that, if a person does not visit the doctor at all, their health outcome is estimated to be around 62.35.
+* Doctor_visits (1.47425): This coefficient suggests that, on average, for each additional doctor visit, the health outcome increases by approximately 1.47 units.
+* R-squared: The R-squared value (0.7917) indicates that approximately 79.17% of the variability in health outcomes can be explained by the linear relationship with the number of doctor visits.
+* P-values: The p-value associated with the coefficient for doctor_visits is very small (0.000595), indicating that the relationship between the number of doctor visits and health outcomes is statistically significant.
+
+In conclusion, the results suggest that there is a statistically significant positive linear relationship between the number of doctor visits and health outcomes among the studied population. As the number of doctor visits increases, health outcomes tend to improve. This finding may suggest that increasing access to healthcare services, such as promoting regular doctor visits, could potentially lead to better health outcomes among minorities in healthcare.
