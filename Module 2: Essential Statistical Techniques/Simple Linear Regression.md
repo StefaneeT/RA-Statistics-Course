@@ -32,3 +32,12 @@ If your data fail to meet the assumptions of homoscedasticity or normality, you 
 * e represents the error of the estimate, indicating the degree of variation in our estimation of the regression coefficient.
   
 Linear regression determines the best-fit line through the data by seeking the regression coefficient (B1) that minimizes the total error (e) of the model.
+
+# Simple Linear Regression in R
+
+To perform simple linear regression in R, you can use the `lm()` function, which stands for linear model. Let's say we want to investigate the relationship between the number of doctor visits (independent variable) and health outcomes (dependent variable) among minority populations
+
+Example R Code: model <- lm(health_outcomes ~ doctor_visits, data = data)
+
+# Interpreting the Results
+Example R Code: summary(model)
