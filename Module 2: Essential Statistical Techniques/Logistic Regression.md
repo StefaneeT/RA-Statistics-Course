@@ -6,7 +6,7 @@ The Logistic Regression is a statistical method used for modeling the relationsh
 * There should be no outliers in the data
 * There should be no high correlations (multicollinearity) among the predictors.
 
-  # Logistic Regression Formula
+# Logistic Regression Formula
   
 <img src="https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-formula-e1504965903637.png" width="300" height="150">
 
@@ -15,3 +15,18 @@ Logistic regression, similar to linear regression, employs the conventional regr
 Graphically, while linear regression entails fitting a straight line, logistic regression (probabilities) entails fitting a curved line between zero and one. Observe in the illustration below how the inputs (x-axis) remain consistent while the outputs (y-axis) demonstrate significant variation.
 
 <img src="https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-vs-linear.png" width="400" height="300">
+
+# Logistic Regression in R Example
+You want to know if smoking status (smoker/non-smoker) predicts the likelihood of developing lung cancer.
+
+Example R Code: 
+```lung_model <- glm(lung_cancer ~ smoking, data = lung, family = "binomial")
+```summary(lung_model)
+
+In this code:
+
+* glm() is the function used to fit generalized linear models, including logistic regression.
+* lung_cancer ~ smoking specifies the formula where lung_cancer is the outcome variable and smoking is the predictor variable.
+* data = lung specifies the dataset.
+* family = "binomial" specifies that logistic regression should be used.
+ 
