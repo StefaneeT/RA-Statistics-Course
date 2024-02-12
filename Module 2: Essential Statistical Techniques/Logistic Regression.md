@@ -8,7 +8,7 @@ The Logistic Regression is a statistical method used for modeling the relationsh
 
   # Logistic Regression Formula
   
-<img src="https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-formula-e1504965903637.png" width="200" height="100">
+<img src="https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-formula-e1504965903637.png" width="300" height="150">
 
 Logistic regression, similar to linear regression, employs the conventional regression formula within the logistic function of e^x / (1 + e^x). Consequently, this logistic function introduces an altered interpretation of coefficients.
 
