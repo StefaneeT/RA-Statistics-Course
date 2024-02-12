@@ -20,8 +20,8 @@ Graphically, while linear regression entails fitting a straight line, logistic r
 You want to know if smoking status (smoker/non-smoker) predicts the likelihood of developing lung cancer.
 
 Example R Code: 
-```lung_model <- glm(lung_cancer ~ smoking, data = lung, family = "binomial")
-```summary(lung_model)
+lung_model <- glm(lung_cancer ~ smoking, data = lung, family = "binomial")
+<br /> summary(lung_model)
 
 In this code:
 
