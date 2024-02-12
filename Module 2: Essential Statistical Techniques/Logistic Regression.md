@@ -8,4 +8,4 @@ The Logistic Regression is a statistical method used for modeling the relationsh
 
   # Logistic Regression Formula
   
-<img src="[https://microbenotes.com/wp-content/uploads/2023/08/T-Test-Formula.jpeg](https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-formula-e1504965903637.png)https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-formula-e1504965903637.png" width="800" height="400">
+<img src="https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-formula-e1504965903637.png" width="800" height="400">
