@@ -14,4 +14,4 @@ Logistic regression, similar to linear regression, employs the conventional regr
 
 Graphically, while linear regression entails fitting a straight line, logistic regression (probabilities) entails fitting a curved line between zero and one. Observe in the illustration below how the inputs (x-axis) remain consistent while the outputs (y-axis) demonstrate significant variation.
 
-<img src="https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-vs-linear.png" width="600" height="400">
+<img src="https://www.learnbymarketing.com/wp-content/uploads/2017/09/logistic-reg-vs-linear.png" width="300" height="200">
