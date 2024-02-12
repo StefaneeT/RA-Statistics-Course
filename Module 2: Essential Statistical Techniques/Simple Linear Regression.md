@@ -43,10 +43,10 @@ Example R Code: model <- lm(health_outcomes ~ doctor_visits, data = data)
 Example R Code: summary(model)
 
 
-| Coefficients     | Estimate | Std. Error | t value | Pr(>|t|) |
-|------------------|----------|------------|---------|----------|
-| (Intercept)      | 62.35338 | 4.41048    | 14.141  | 3.43e-06 |
-| doctor_visits    | 1.47425  | 0.26308    | 5.606   | 0.000595 |
+| Coefficients   | Estimate | Std. Error | t value | Pr(>|t|)   |
+|----------------|----------|------------|---------|------------|
+| (Intercept)    | 62.35338 | 4.41048    | 14.141  | 3.43e-06   |
+| doctor_visits  | 1.47425  | 0.26308    | 5.606   | 0.000595   |
 
 - Residual standard error: 1.906 on 8 degrees of freedom
 - Multiple R-squared: 0.7917, Adjusted R-squared: 0.7669
