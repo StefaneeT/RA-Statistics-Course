@@ -24,3 +24,6 @@
 * Critical value approach: Determine critical region
 * p-value approach: Calculate p-value
 5. Retain or reject the hypothesis
+
+
+# Choosing a Statistical Test
