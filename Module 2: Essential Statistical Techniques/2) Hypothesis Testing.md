@@ -62,3 +62,10 @@ E.g.,  Do different exercise regimens (keto, detox, and paleo diets) result in v
 Same as ANOVA, but adds control of one or more covariates
 that my influence dependent variable
 E.g., Do cholesterol levels differ among patients undergoing different dietary interventions after controlling for age and gender differences?
+
+# Proportions
+Use when the respose is binary, eg. yes or no; Vote for candidate A
+or not vote for candidate A
+<img width="449" alt="Formulas" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/e4ca8b0e-3921-4a30-b1ee-bdae4d234e97">
+
+
