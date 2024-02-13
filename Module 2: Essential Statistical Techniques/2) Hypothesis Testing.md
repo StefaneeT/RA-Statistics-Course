@@ -28,3 +28,13 @@
 
 # Choosing a Statistical Test
 <img width="588" alt="Statistical Test Decision Tree" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/61d134a9-a5d3-441c-a343-2f5570bc0acb">
+
+## Choosing by Data Structure
+
+### Categorical Data: 
+Use Chi Square
+
+### Sample size (n):
+n < 30 and Population Variance is unknown - t-test
+n < 30 and Population Variance is known - z-test
+n > 30 - z-test or t-test
