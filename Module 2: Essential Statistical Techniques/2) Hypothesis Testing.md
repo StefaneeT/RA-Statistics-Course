@@ -14,6 +14,12 @@
 | One tailed test        | Test statistics falls into one specified tail of its sampling distribution                            |
 | Two tailed test        | Test statistics can fall into either tail of its sampling distribution                                |
 
+## Normal Curve
+<img width="150" alt="Normal Curve" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/a7bd752a-69bb-4047-b7e0-62e8fb7a9f8b">
+
+## Acceptance/Rejection Regions: *Two Tailed Test*
+<img width="148" alt="Two-Tailed" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/de3885ea-2dba-4ce2-b59a-7624b0a9eb6f">
+
 
 # Hypothesis Testing
 ## Steps to Significance Testing
