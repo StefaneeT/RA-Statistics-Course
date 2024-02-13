@@ -35,6 +35,6 @@
 Use Chi Square
 
 ### Sample size (n):
-n < 30 and Population Variance is unknown - t-test
-n < 30 and Population Variance is known - z-test
-n > 30 - z-test or t-test
+* n < 30 and Population Variance is unknown - t-test
+* n < 30 and Population Variance is known - z-test
+* n > 30 - z-test or t-test
