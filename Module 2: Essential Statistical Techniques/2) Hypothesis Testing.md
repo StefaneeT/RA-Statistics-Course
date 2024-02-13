@@ -27,8 +27,8 @@
 2. Identify test, α, find critical value, test statistics
 3. Construct acceptance/rejection regions
 4. Calculate test statistics
-* Critical value approach: Determine critical region
-* p-value approach: Calculate p-value
+  * Critical value approach: Determine critical region
+  * p-value approach: Calculate p-value
 5. Retain or reject the hypothesis
 
 
