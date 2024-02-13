@@ -44,25 +44,21 @@ Use Chi Square
 Checks whether two categorical variables are related or not
 (independence)
 
-E.g., Is the distribution of sex and voting behavior due to chance
-or is there a difference between sexes on voting behavior?
+E.g., Is the distribution of smoking status and lung cancer diagnosis due to chance, or is there a relationship between smoking and lung cancer diagnosis rates in a population?
 
 ## T-Test:
 Looks at the difference between two groups
 (e.g., undergrad/grad)
 
-E.g., Do undergrad and grad students differ in the amount
-of hours they spend studying in a given month?
+E.g., Do patients who receive medication A differ significantly in blood pressure reduction compared to those who receive medication B?
 
 ## ANOVA (Analysis of Variance):
 Tests the significance of group differences between two or
 more groups (only determines that there is a difference between groups, but does not tell which is different)
 
-E.g., Do GRE scores differ for low-, middle, and
-high-income students?
+E.g.,  Do different exercise regimens (keto, detox, and paleo diets) result in varied weight loss outcomes among obese patients?
 
 ## ANCOVA (Analysis of Covariance):
 Same as ANOVA, but adds control of one or more covariates
 that my influence dependent variable
-E.g., Do SAT scores differ for low-, middle-, and high-income
-students after controlling for single/dual parenting?
+E.g., Do cholesterol levels differ among patients undergoing different dietary interventions after controlling for age and gender differences?
