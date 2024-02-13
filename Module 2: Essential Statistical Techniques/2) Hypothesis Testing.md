@@ -38,3 +38,31 @@ Use Chi Square
 * n < 30 and Population Variance is unknown - t-test
 * n < 30 and Population Variance is known - z-test
 * n > 30 - z-test or t-test
+
+# Statistical Test Examples
+## Chi Square test for independence:
+Checks whether two categorical variables are related or not
+(independence)
+
+E.g., Is the distribution of sex and voting behavior due to chance
+or is there a difference between sexes on voting behavior?
+
+## T-Test:
+Looks at the difference between two groups
+(e.g., undergrad/grad)
+
+E.g., Do undergrad and grad students differ in the amount
+of hours they spend studying in a given month?
+
+## ANOVA (Analysis of Variance):
+Tests the significance of group differences between two or
+more groups (only determines that there is a difference between groups, but does not tell which is different)
+
+E.g., Do GRE scores differ for low-, middle, and
+high-income students?
+
+## ANCOVA (Analysis of Covariance):
+Same as ANOVA, but adds control of one or more covariates
+that my influence dependent variable
+E.g., Do SAT scores differ for low-, middle-, and high-income
+students after controlling for single/dual parenting?
