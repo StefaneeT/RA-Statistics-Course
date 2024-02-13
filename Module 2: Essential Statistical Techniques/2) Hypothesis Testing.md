@@ -18,7 +18,7 @@
 <img width="350" alt="Normal Curve" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/a7bd752a-69bb-4047-b7e0-62e8fb7a9f8b">
 
 ## Acceptance/Rejection Regions: *Two Tailed Test*
-<img width="348" alt="Two-Tailed" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/de3885ea-2dba-4ce2-b59a-7624b0a9eb6f">
+<img width="350" alt="Two-Tailed" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/de3885ea-2dba-4ce2-b59a-7624b0a9eb6f">
 
 
 # Hypothesis Testing
