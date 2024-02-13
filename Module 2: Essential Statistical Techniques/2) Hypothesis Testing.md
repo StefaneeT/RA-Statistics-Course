@@ -13,3 +13,14 @@
 | Significance level (α) | Probability of making Type I error                                                                    |
 | One tailed test        | Test statistics falls into one specified tail of its sampling distribution                            |
 | Two tailed test        | Test statistics can fall into either tail of its sampling distribution                                |
+
+
+# Hypothesis Testing
+## Steps to Significance Testing
+1. Define H0 and Ha
+2. Identify test, α, find critical value, test statistics
+3. Construct acceptance/rejection regions
+4. Calculate test statistics
+** Critical value approach: Determine critical region
+** p-value approach: Calculate p-value
+5. Retain or reject the hypothesis
