@@ -27,3 +27,4 @@
 
 
 # Choosing a Statistical Test
+<img width="288" alt="Statistical Test Decision Tree" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/61d134a9-a5d3-441c-a343-2f5570bc0acb">
