@@ -2,7 +2,7 @@
 
 In hypothesis testing, statistical tests serve several purposes:
 
-They help ascertain if a predictor variable holds a statistically significant association with an outcome variable.
+They help show if a predictor variable holds a statistically significant association with an outcome variable.
 They aid in estimating discrepancies between two or more groups.
 These tests operate under the assumption of a null hypothesis, suggesting no relationship or distinction between groups. Subsequently, they assess whether observed data deviate beyond the range of values anticipated by the null hypothesis.
 
