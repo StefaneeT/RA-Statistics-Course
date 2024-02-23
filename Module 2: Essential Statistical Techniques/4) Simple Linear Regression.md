@@ -42,7 +42,10 @@ Example R Code: model <- lm(health_outcomes ~ doctor_visits, data = data)
 # Interpreting the Results
 Example R Code: summary(model)
 
-
+| Coefficients   | Estimate | Std. Error | t value | Pr(>|t|)   |
+|----------------|----------|------------|---------|------------|
+| (Intercept)    | 62.35338 | 4.41048    | 14.141  | 3.43e-06   |
+| doctor_visits  | 1.47425  | 0.26308    | 5.606   | 0.000595   |
 
 - Residual standard error: 1.906 on 8 degrees of freedom
 - Multiple R-squared: 0.7917, Adjusted R-squared: 0.7669
@@ -58,8 +61,3 @@ Coefficients:
 In conclusion, the results suggest that there is a statistically significant positive linear relationship between the number of doctor visits and health outcomes among the studied population. As the number of doctor visits increases, health outcomes tend to improve. This finding may suggest that increasing access to healthcare services, such as promoting regular doctor visits, could potentially lead to better health outcomes among minorities in healthcare.
 
 
-
-| Coefficients   | Estimate | Std. Error | t value | Pr(>|t|)   |
-|----------------|----------|------------|---------|------------|
-| (Intercept)    | 62.35338 | 4.41048    | 14.141  | 3.43e-06   |
-| doctor_visits  | 1.47425  | 0.26308    | 5.606   | 0.000595   |
