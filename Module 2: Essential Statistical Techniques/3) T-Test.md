@@ -39,7 +39,7 @@ If one group is being compared against a standard value, utilize a one-sample t-
 
 If your primary concern is whether the two populations differ, conduct a two-tailed t-test.
 
-If you aim to ascertain whether one population mean surpasses or falls short of the other, conduct a one-tailed t-test.
+If you aim to show whether one population mean surpasses or falls short of the other, conduct a one-tailed t-test.
 
 ## Example using Black Maternity Health Outcome:
 
