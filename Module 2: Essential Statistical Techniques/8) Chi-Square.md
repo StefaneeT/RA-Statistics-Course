@@ -38,7 +38,7 @@ Executing a chi-square test, whether Pearson’s or otherwise, involves several 
 1. Construct a table presenting observed and expected frequencies, a pivotal step often demanding meticulous consideration to determine the most suitable expected values aligning with your null hypothesis.
 2. Compute the chi-square value utilizing the observed and expected frequencies through the chi-square formula.
 3. Obtain the critical chi-square value either from a chi-square critical value table or via statistical software.
-4. Compare the computed chi-square value with the critical value to ascertain the larger of the two.
+4. Compare the computed chi-square value with the critical value to show the larger of the two.
 5. Determine whether to reject the null hypothesis, leaning towards rejection if the chi-square value surpasses the critical value, signifying a significant deviation from anticipated data patterns.
 
 # Reporting a Chi-Square Test in Research
