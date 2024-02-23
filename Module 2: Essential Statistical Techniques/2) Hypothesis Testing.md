@@ -66,7 +66,7 @@ E.g.,  Do different exercise regimens (keto, detox, and paleo diets) result in v
 
 ## ANCOVA (Analysis of Covariance):
 Same as ANOVA, but adds control of one or more covariates
-that my influence dependent variable
+that my influence dependent variable<br>
 E.g., Do cholesterol levels differ among patients undergoing different dietary interventions after controlling for age and gender differences?
 
 # Proportions
