@@ -33,7 +33,7 @@ If the groups originate from a single population (e.g., assessing before and aft
 
 If the groups stem from two different populations (e.g., comparing two different species or individuals from distinct cities), employ a two-sample t-test, also known as an independent t-test, reflective of a between-subjects design.
 
-If one group is being compared against a standard value (e.g., evaluating the acidity of a liquid against a neutral pH of 7), utilize a one-sample t-test.
+If one group is being compared against a standard value, utilize a one-sample t-test.
 
 ## One-tailed or two-tailed t-test?
 
