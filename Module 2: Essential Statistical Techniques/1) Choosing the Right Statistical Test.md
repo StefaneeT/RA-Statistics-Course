@@ -31,7 +31,7 @@ The nature of variables typically dictates the suitable statistical test for ana
 
 ## Quantitative variables denote quantities and can be categorized as:
 
-Continuous (also known as ratio variables): These represent measures and can usually be divided into units smaller than one
+Continuous (also known as ratio variables): These represent measures and can usually be divided into units smaller than one <br>
 Discrete (also known as integer variables): These represent counts and generally cannot be subdivided into units smaller than one
 
 ## Categorical variables denote groupings and include:
