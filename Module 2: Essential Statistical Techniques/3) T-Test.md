@@ -6,7 +6,7 @@ The test essentially assesses whether the observed differences between the group
 
 # T-Test Example
  You want to know if there is there a statistically significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds.
- You can test the difference between racial/ethnic backgrounds using a t-test and null and alternative hypotheses.
+ You can test the difference between racial/ethnic backgrounds using a t-test.
 
 Null Hypothesis (H0): There is no significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds.
 Alternative Hypothesis (H1): There is a significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds.
