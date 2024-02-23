@@ -100,6 +100,6 @@ The p-value (0.0012) is less than the commonly used significance level of 0.05. 
 ANOVA serves to identify differences among the levels of the independent variable, but it doesn't specify which differences are statistically significant. To ascertain how the support system levels differ from one another, consider conducting a TukeyHSD (Tukey’s Honestly-Significant Difference) post-hoc test.
 
 The R Code for the support system influence the mental health outcomes of LGBTQIA individuals would look similar to this:
-tukey_result <- TukeyHSD(anova_result)
-tukey_result
+tukey_result <- TukeyHSD(anova_result)<br>
+print(tukey_result)
 
