@@ -3,7 +3,7 @@
 
 | Term                    | Definition                                                                                           |
 |-------------------------|------------------------------------------------------------------------------------------------------|
-| Null Hypothesis (H0)   | The statement or claim being made (which we are trying to disprove                      |
+| Null Hypothesis (H0)   | The statement or claim being made (which we are trying to disprove)                     |
 | Alternate Hypothesis   | The statement that the researcher is trying to find evidence to support                                |
 | Type I Error           | Rejecting the null hypothesis when the null hypothesis is true                                           |
 | Type II Error          | Failing to reject the null hypothesis when the alternative hypothesis is true                             |
