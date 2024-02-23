@@ -36,8 +36,8 @@ Discrete (also known as integer variables): These represent counts and generally
 
 ## Categorical variables denote groupings and include:
 
-Ordinal: Represent data with a specific order.
-Nominal: Represent group names.
+Ordinal: Represent data with a specific order.<br>
+Nominal: Represent group names.<br>
 Binary: Represent data with a yes/no or 1/0 outcome.
 
 Select the appropriate test based on the types of predictor and outcome variables collected (in experiments, these correspond to independent and dependent variables). 
