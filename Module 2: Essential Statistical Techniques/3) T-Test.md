@@ -22,7 +22,7 @@ The t-test assumes that your data:
 2. are (approximately) normally distributed
 3. exhibit a similar level of variance within each group being compared, known as homogeneity of variance
    
-Should your data deviate from these assumptions, consider exploring a nonparametric alternative to the t-test, such as the Wilcoxon Signed-Rank test.
+If your data does not meet these assumptions, consider exploring a nonparametric alternative to the t-test, such as the Wilcoxon Signed-Rank test.
 
 # What type of T-Test should you use?
 When deciding on a t-test, two considerations are crucial: determining whether the groups being compared stem from a single population or two distinct populations, and establishing if you wish to test the difference in a specific direction.
