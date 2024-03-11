@@ -1,6 +1,6 @@
 # Introduction to the Concept of ANOVA
 
-Analysis of Variance (ANOVA) is a statistical examination used to assess variations among the means of multiple groups.
+Analysis of Variance (ANOVA) is a statistical test used to assess variations among the means of multiple groups.
 In the context of ANOVA, a one-way test involves a single independent variable, whereas a two-way ANOVA involves two independent variables.
 
 # ANOVA Example
@@ -8,17 +8,17 @@ In the context of ANOVA, a one-way test involves a single independent variable, 
 You want to examine if the type of support system (family, friends, professional counseling) influence the mental health outcomes of LGBTQIA individuals, and if there are significant differences in mental health scores among these groups.
 
 Your independent variable is the type of support system (family, friends, professional counseling), and you categorize individuals into groups based on the level of support they receive. The aim is to investigate potential differences in mental health scores among LGBTQIA individuals based on the type of support they have.
-The null hypothesis (H0) asserts that there is no substantial difference among group means.
+The null hypothesis (H0) states that there is no substantial difference among group means.
 
-The alternative hypothesis (Ha) is that at least one group significantly deviates from the overall mean of the dependent variable (mental health scores).
+The alternative hypothesis (Ha) states that there is substantial difference among group means.
 
 # When should you use a One-Way ANOVA?
 
 Utilize a one-way ANOVA when you have data related to one categorical independent variable and one quantitative dependent variable. The independent variable should encompass a minimum of three levels, which represents distinct groups or categories.
 
-ANOVA aids in discerning whether the dependent variable exhibits variations based on the levels of the independent variable.
+ANOVA helps in discerning whether the dependent variable exhibits variations based on the levels of the independent variable.
 
-If you only want to compare two groups, use a t test instead.
+If you only want to compare two groups, use a t-test instead.
 
 The ANOVA test assumes that your data:
 
@@ -97,7 +97,7 @@ The p-value (0.0012) is less than the commonly used significance level of 0.05. 
 
 # Post-hoc Testing
 
-ANOVA serves to identify differences among the levels of the independent variable, but it doesn't specify which differences are statistically significant. To ascertain how the support system levels differ from one another, consider conducting a TukeyHSD (Tukey’s Honestly-Significant Difference) post-hoc test.
+ANOVA serves to identify differences among the levels of the independent variable, but it doesn't specify which differences are statistically significant. To display how the support system levels differ from one another, consider conducting a TukeyHSD (Tukey’s Honestly-Significant Difference) post-hoc test.
 
 The R Code for the support system influence the mental health outcomes of LGBTQIA individuals would look similar to this:
 tukey_result <- TukeyHSD(anova_result)<br>
