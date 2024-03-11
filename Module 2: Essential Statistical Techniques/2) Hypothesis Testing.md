@@ -3,7 +3,7 @@
 
 | Term                    | Definition                                                                                           |
 |-------------------------|------------------------------------------------------------------------------------------------------|
-| Null Hypothesis (H0)   | The statement or claim being made (which we are trying to disprove)                     |
+| Null Hypothesis (H0)   | The statement or claim being made                                                                     |
 | Alternate Hypothesis   | The statement that the researcher is trying to find evidence to support                                |
 | Type I Error           | Rejecting the null hypothesis when the null hypothesis is true                                           |
 | Type II Error          | Failing to reject the null hypothesis when the alternative hypothesis is true                             |
@@ -29,7 +29,7 @@
 4. Calculate test statistics
   * Critical value approach: Determine critical region
   * p-value approach: Calculate p-value
-5. Retain or reject the hypothesis
+5. Fail to reject or reject the hypothesis
 
 
 # Choosing a Statistical Test
