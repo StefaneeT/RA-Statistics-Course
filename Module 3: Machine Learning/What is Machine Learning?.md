@@ -22,7 +22,12 @@ Machine learning stands as a powerful problem-solving tool; however, it still ho
 * Explainability: Certain machine learning models cannot be explained, even experts have challenges in explaining their decision-making rationale. 
 * Algorithmic Bias: Machine learning models learn from human-generated data, which may be tainted with bias and unrepresentative information.
 
+# Machine Learning vs. Deep Learning
+Machine learning and deep learning are both subfields within artificial intelligence, with deep learning falling under the umbrella of machine learning. Here are the main differences between the two:
 
+* **Machine learning** requires human intervention, where experts annotate data and identify defining characteristics. The algorithm can then use these extracted characteristics or features to create a model
+
+* **Deep learning** operates without the dependency of annotated datasets. It possesses the capability to analyze unstructured data, such as images or textual content, and can automatically determine relevant features that are important for categorizing data into distinct classes.
 
 
 
