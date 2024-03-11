@@ -18,9 +18,9 @@ Machine learning stands as a powerful problem-solving tool; however, it still ho
 
 ## Limitations:
 
-** Overfitting and Generalization Challenges: Over-reliance on training data can lead to overfitting, hindering the model's ability to generalize to novel examples. This narrow focus on training data may result in erroneous classifications or predictions when faced with unseen data, leading to suboptimal decisions.
-** Explainability: Certain machine learning models operate akin to "black boxes," confounding even experts in explaining their decision-making rationale. This lack of transparency poses challenges in sensitive domains like finance or healthcare, raising concerns regarding accountability. For instance, the inability to elucidate why a bank loan was declined or a specific treatment recommended presents significant issues.
-** Algorithmic Bias: Machine learning models learn from human-generated data, which may be tainted with bias and unrepresentative information. This inherent bias in datasets manifests as algorithmic bias, engendering systematic and recurring inaccuracies within ML models and yielding unfair outcomes, such as favoring certain job applicants over others.
+* Overfitting and Generalization Challenges: Over-reliance on training data can lead to overfitting, hindering the model's ability to generalize to novel examples. This narrow focus on training data may result in erroneous classifications or predictions when faced with unseen data, leading to suboptimal decisions.
+* Explainability: Certain machine learning models operate akin to "black boxes," confounding even experts in explaining their decision-making rationale. This lack of transparency poses challenges in sensitive domains like finance or healthcare, raising concerns regarding accountability. For instance, the inability to elucidate why a bank loan was declined or a specific treatment recommended presents significant issues.
+* Algorithmic Bias: Machine learning models learn from human-generated data, which may be tainted with bias and unrepresentative information. This inherent bias in datasets manifests as algorithmic bias, engendering systematic and recurring inaccuracies within ML models and yielding unfair outcomes, such as favoring certain job applicants over others.
 
 
 
