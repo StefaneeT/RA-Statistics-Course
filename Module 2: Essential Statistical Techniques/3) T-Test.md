@@ -8,8 +8,8 @@ The test essentially assesses whether the observed differences between the group
  You want to know if there is there a statistically significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds.
  You can test the difference between racial/ethnic backgrounds using a t-test.
 
-Null Hypothesis (H0): There is no significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds. <br>
-Alternative Hypothesis (H1): There is a significant difference in maternal health outcomes between Black women and women of other racial/ethnic backgrounds.
+Null Hypothesis (H0): There is no significant difference in maternal health outcomes between Black/African American women and Caucasian women. <br>
+Alternative Hypothesis (H1): There is a significant difference in maternal health outcomes between Black/African American women and Caucasian women.
 
 # When should you use a T-Test?
 
@@ -22,16 +22,16 @@ The t-test assumes that your data:
 2. are (approximately) normally distributed
 3. exhibit a similar level of variance within each group being compared, known as homogeneity of variance
    
-Should your data deviate from these assumptions, consider exploring a nonparametric alternative to the t-test, such as the Wilcoxon Signed-Rank test, especially suitable for data with unequal variances.
+Should your data deviate from these assumptions, consider exploring a nonparametric alternative to the t-test, such as the Wilcoxon Signed-Rank test.
 
 # What type of T-Test should you use?
 When deciding on a t-test, two considerations are crucial: determining whether the groups being compared stem from a single population or two distinct populations, and establishing if you wish to test the difference in a specific direction.
 
 ## One-sample, two-sample, or paired t-test?
 
-If the groups originate from a single population (e.g., assessing before and after an experimental treatment), opt for a paired t-test, indicative of a within-subjects design.
+If the groups originate from a single population (e.g., assessing before and after an experimental treatment), opt for a paired t-test.
 
-If the groups stem from two different populations (e.g., comparing two different species or individuals from distinct cities), employ a two-sample t-test, also known as an independent t-test, reflective of a between-subjects design.
+If the groups stem from two different populations (e.g., comparing two different species or individuals from distinct cities), try a two-sample t-test, also known as an independent t-test.
 
 If one group is being compared against a standard value, utilize a one-sample t-test.
 
@@ -43,9 +43,9 @@ If you aim to show whether one population mean surpasses or falls short of the o
 
 ## Example using Black Maternity Health Outcome:
 
-In your examination of whether maternal health outcomes differ among Black women:
+In your examination of whether maternal health outcomes differ among Black/African American and Caucasion women:
 
-The observations come from two separate populations (Black women and women from other racial backgrounds), prompting the use of a two-sample t-test.
+The observations come from two separate populations (Black/African American and Caucasion women), prompting the use of a two-sample t-test.
 
 As your interest lies in determining whether there is any difference without specifying the direction, opt for a two-tailed t-test.
 
