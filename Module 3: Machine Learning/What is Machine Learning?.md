@@ -12,9 +12,9 @@ Machine learning stands as a powerful problem-solving tool; however, it still ho
 
 ## Advantages:
 
-** Data Scalability: Machine learning excels at tackling issues demanding the processing of extensive datasets. ML models unearth patterns and provide forecasts autonomously, offering insights beyond the scope of conventional programming.
-** Adaptability: Machine learning models can assimilate new data and continually refine their accuracy with time. This adaptability proves invaluable in handling dynamic datasets that undergo constant flux, such as movie recommendations based on recent viewing history.
-** Automation: Machine learning models streamline manual data analysis and interpretation, ultimately automating decision-making processes. This automation is particularly advantageous for intricate tasks and voluminous datasets beyond human processing capacity, such as analyzing customer conversation recordings or conducting large-scale question answering tasks.
+* Data Scalability: Machine learning excels at tackling issues demanding the processing of extensive datasets. ML models unearth patterns and provide forecasts autonomously, offering insights beyond the scope of conventional programming.
+* Adaptability: Machine learning models can assimilate new data and continually refine their accuracy with time. This adaptability proves invaluable in handling dynamic datasets that undergo constant flux, such as movie recommendations based on recent viewing history.
+* Automation: Machine learning models streamline manual data analysis and interpretation, ultimately automating decision-making processes. This automation is particularly advantageous for intricate tasks and voluminous datasets beyond human processing capacity, such as analyzing customer conversation recordings or conducting large-scale question answering tasks.
 
 ## Limitations:
 
