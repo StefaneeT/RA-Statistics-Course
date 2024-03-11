@@ -12,15 +12,15 @@ Machine learning stands as a powerful problem-solving tool; however, it still ho
 
 ## Advantages:
 
-* Data Scalability: Machine learning excels at tackling issues demanding the processing of extensive datasets. ML models unearth patterns and provide forecasts autonomously, offering insights beyond the scope of conventional programming.
-* Adaptability: Machine learning models can assimilate new data and continually refine their accuracy with time. This adaptability proves invaluable in handling dynamic datasets that undergo constant flux, such as movie recommendations based on recent viewing history.
-* Automation: Machine learning models streamline manual data analysis and interpretation, ultimately automating decision-making processes. This automation is particularly advantageous for intricate tasks and voluminous datasets beyond human processing capacity, such as analyzing customer conversation recordings or conducting large-scale question answering tasks.
+* Data Scalability: Machine learning excels at handling issues that demand the processing of extensive datasets. 
+* Adaptability: Machine learning models can assimilate new data and continually refine their accuracy with time. 
+* Automation: Machine learning models streamline manual data analysis and interpretation, ultimately automating decision-making processes. 
 
 ## Limitations:
 
-* Overfitting and Generalization Challenges: Over-reliance on training data can lead to overfitting, hindering the model's ability to generalize to novel examples. This narrow focus on training data may result in erroneous classifications or predictions when faced with unseen data, leading to suboptimal decisions.
-* Explainability: Certain machine learning models operate akin to "black boxes," confounding even experts in explaining their decision-making rationale. This lack of transparency poses challenges in sensitive domains like finance or healthcare, raising concerns regarding accountability. For instance, the inability to elucidate why a bank loan was declined or a specific treatment recommended presents significant issues.
-* Algorithmic Bias: Machine learning models learn from human-generated data, which may be tainted with bias and unrepresentative information. This inherent bias in datasets manifests as algorithmic bias, engendering systematic and recurring inaccuracies within ML models and yielding unfair outcomes, such as favoring certain job applicants over others.
+* Overfitting and Generalization Challenges: Over-reliance on training data can lead to overfitting, this means it cannot generalize to examples it hasn’t encountered before . 
+* Explainability: Certain machine learning models cannot be explained, even experts have challenges in explaining their decision-making rationale. 
+* Algorithmic Bias: Machine learning models learn from human-generated data, which may be tainted with bias and unrepresentative information.
 
 
 
