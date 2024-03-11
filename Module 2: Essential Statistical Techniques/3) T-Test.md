@@ -82,7 +82,7 @@ data:  maternal_health by racial_background
 | **Mean (Other Women)**   | 6.123       |
 
 The analysis provides the following insights:
-1. A description of the comparison under investigation, focusing on Maternal Health Outcomes between Black Women and Other Racial Backgrounds.
+1. A description of the comparison under investigation, focusing on Maternal Health Outcomes between Black/African American Women and Caucasion women.
 2. The t-value: -2.3456. Note that it’s negative; in most cases, we are concerned with the absolute value, representing the distance from 0. The direction does not matter.
 3. The degrees of freedom: 98. This factor is linked to the sample size, indicating the number of 'free' data points for meaningful comparisons. Greater degrees of freedom enhance the effectiveness of the statistical test.
 4. The p-value: 0.02134. This signifies the likelihood of observing a t-value like this one obtained by chance.
@@ -91,4 +91,4 @@ The analysis provides the following insights:
 7. The Mean maternal health for each group
 
 
-From the output table, we can see that the difference in means for our sample data is −0.445 (5.678 − 6.123), and the confidence interval shows that the true difference in means is between −0.6748 and −0.0432. So, 95% of the time, the true difference in means will be different from 0. Our p value of 0.02132 which is smaller than 0.05, so we can reject the null hypothesis of no difference and say with a high degree of confidence that the true difference in means is not equal to zero.
+From the output table, we can see that the difference in means for our sample data is −0.445 (5.678 − 6.123), and the confidence interval shows that the true difference in means is between −0.6748 and −0.0432. So, 95% of the time, the true difference in means will be different from 0. Our p value of 0.02132 which is smaller than 0.05, so we can reject the null hypothesis of no difference and say with a high degree of confidence there is a significant difference in maternal health outcomes between Black/African American women and Caucasian women
