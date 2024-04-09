@@ -1,4 +1,4 @@
-# Bar Chart:
+# Bar Chart
 For tests where both the variables are categorical like chi-square test and fisher-exact test, bar-charts are most commonly used.
 
 For example: A bar chart could be used to visualize the frequency of car brands in a class of students according to gender
@@ -21,7 +21,7 @@ For example: A histogram would be used to visualize the results of a exam scores
 <img width="650" alt="Histogram" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/794bb80c-f6d9-4535-98d5-6648dd9b264d">
 
 
-# Correlation:
+# Correlation
 For Pearson correlation, where both the variables are continuous, scatter plot with regression line is best to visualize the data.
 
 For example: A scatterplot with a regression line can be used to visualize the points of individuals asked for their weight and height.
@@ -29,7 +29,7 @@ For example: A scatterplot with a regression line can be used to visualize the p
 <img width="600" alt="Scatterplot" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/6d6de96a-2b13-4494-bf7a-7bbedaa47010">
 
 
-# Boxplots:
+# Boxplots
 Box-plot is also commonly used for visualizing t-test and one-way ANOVA. Box plots are charts used to represent distributions of data. They provide a visual summary of the data by presenting important statistical measures such as median, quartiles, and outliers in a single graph. Since t-test (independent t-test and paired t-test) and one-way ANOVA are used to assess the mean (± SD) difference between the groups, a boxplot with error bars is the best for representing these tests. In addition, Mann-Whitney test, paired samples Wilcoxon test and Kruskal-Wallis test are non-parametric alternatives of independent t-test, paired t-test and one-way ANOVA respectively. In these tests, variables are usually expressed as median (interquartile range); therefore boxplots are a good data visualization technique for these tests. In the box-plot, we can visualize median, interquartile range (i.e. 1st quartile and 3rd quartile), minimum and maximum. Since non-parametric tests like Mann-Whitney test, paired samples Wilcoxon test and Kruskal-Wallis test are used to assess difference in spread of variables between groups, box-plot is the best option.
 
 For example: A boxplot could be used to observe the Body-Mass Index amongst genders
