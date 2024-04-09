@@ -26,7 +26,7 @@ For Pearson correlation, where both the variables are continuous, scatter plot w
 
 For example: A scatterplot with a regression line can be used to visualize the points of individuals asked for their weight and height.
 
-< img width="650" alt="Scatterplot" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/6d6de96a-2b13-4494-bf7a-7bbedaa47010">
+<img width="650" alt="Scatterplot" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/6d6de96a-2b13-4494-bf7a-7bbedaa47010">
 
 
 # T-test or One-way ANOVA:
