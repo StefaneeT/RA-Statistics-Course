@@ -24,6 +24,10 @@ For example: A histogram would be used to visualize the results of a exam scores
 # Correlation:
 For Pearson correlation, where both the variables are continuous, scatter plot with regression line is best to visualize the data.
 
+For example: A scatterplot with a regression line can be used to visualize the points of individuals asked for their weight and height.
+
+<img src="https://f000.backblazeb2.com/file/cGbgmedia/pic2xipnp13j6ckvs33vts7o.png" width="650" height="400">
+
 # T-test or One-way ANOVA:
 Since t-test (independent t-test and paired t-test) and one-way ANOVA are used to assess the mean (± SD) difference between the groups, plot with error bars is the best for representing these tests. Box-plot is also commonly used for visualizing t-test and one-way ANOVA.
 
