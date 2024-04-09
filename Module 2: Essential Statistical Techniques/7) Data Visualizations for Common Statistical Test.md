@@ -1,3 +1,12 @@
+
+# Contingency Tables
+Contingency tables, also known as cross-tabulation tables or two-way tables, are used in statistics to summarize and analyze the relationship between two categorical variables. These tables display the frequencies or relative frequencies of observations falling into various categories for each variable. The appropriate statistical test for analyzing data in a contingency table depends on factors such as study design, sample size, and variable characteristics. However, common tests include the chi-square test for independence, Fisher's exact test for small samples or low expected cell frequencies, and McNemar's test for paired categorical data.
+
+For example: A Contigency table could be used to explore the relationship between Breast and Ovarian cancer and display the frequency of observation falling into each category for each variable.
+
+<img width="433" alt="Contingency Table" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/92bbea4e-4166-4b62-97e8-4906112d2576">
+
+
 # Bar Chart
 For tests where both the variables are categorical like chi-square test and fisher-exact test, bar-charts are most commonly used.
 
