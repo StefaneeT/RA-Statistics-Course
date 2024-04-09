@@ -32,9 +32,9 @@ For example: A scatterplot with a regression line can be used to visualize the p
 # Boxplots:
 Box-plot is also commonly used for visualizing t-test and one-way ANOVA. Box plats are charts used to represent distributions of data. They provide a visual summary of the data by presenting important statistical measures such as median, quartiles, and outliers in a single graph. Since t-test (independent t-test and paired t-test) and one-way ANOVA are used to assess the mean (± SD) difference between the groups, plot with error bars is the best for representing these tests. 
 
-For example: A boxplot could be used to observe the Body-Mass Index for different age categories.
+For example: A boxplot could be used to observe the Body-Mass Index amongst genders.
 
-<img width="600" alt="Boxplot" src="https://www.mdpi.com/sensors/sensors-20-02734/article_deploy/html/images/sensors-20-02734-g009.png">
+<img width="600" alt="Boxplot" src="https://www.researchgate.net/publication/316735392/figure/fig2/AS:672986357059590@1537463859969/Boxplot-of-BMi-body-mass-index-kg-m-2-by-gender-The-central-line-in-each-box.ppm">
 
 
 # Mann-Whitney U test or paired samples Wilcoxon test or Kruskal-Wallis test:
