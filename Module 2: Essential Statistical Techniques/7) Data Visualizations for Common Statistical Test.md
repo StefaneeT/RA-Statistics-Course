@@ -2,7 +2,7 @@
 For tests where both the variables are categorical like chi-square test and fisher-exact test, bar-charts are most commonly used.
 
 For example: A bar graph could be used to visualize the frequency of car brands in a class of students according to gender
-<img src="https://datatab.net/assets/tutorial/fig/multiBarChart.png" width="400" height="400">
+<img src="https://datatab.net/assets/tutorial/fig/multiBarChart.png" width="650" height="400">
 
 # Correlation:
 For Pearson correlation, where both the variables are continuous, scatter plot with regression line is best to visualize the data.
