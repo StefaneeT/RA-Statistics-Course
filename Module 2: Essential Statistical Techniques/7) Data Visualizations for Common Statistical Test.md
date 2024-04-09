@@ -18,7 +18,7 @@ The main difference between a bar chart and a histogram is the type of data they
 A histogram is a graphical representation of data distribution. It uses bars of varying heights to show the frequency of data items in successive numerical intervals. The height of a bar corresponds to the frequency of data in that range.
 
 For example: A histogram would be used to visualize the results of a exam scores of students.
-<img width="371" alt="Histogram" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/794bb80c-f6d9-4535-98d5-6648dd9b264d">
+<img width="500" alt="Histogram" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/794bb80c-f6d9-4535-98d5-6648dd9b264d">
 
 
 # Correlation:
