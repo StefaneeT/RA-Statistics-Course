@@ -40,4 +40,5 @@ For example: A boxplot could be used to observe the Body-Mass Index amongst gend
 Line charts are useful for visualizing trends and changes over time. In a line chart, time or the other continuous variable is plotted on the horizontal axis, while the values of the data to be illustrated are plotted on the vertical axis.
 
 For example: A line chart could be used to visualize the IMR (per 1000 live births) in India from 2010 to 2019.
-<img width="600" alt="Scatterplot" src="https://f000.backblazeb2.com/file/cGbgmedia/pic5sf8ks781uqvbb64aiwvo.png">
+<img width="600" alt="Scatterplot" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/8570bda8-e309-4094-9e05-676aad02d5ad">
+
