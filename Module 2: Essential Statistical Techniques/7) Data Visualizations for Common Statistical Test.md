@@ -4,7 +4,7 @@ Contingency tables, also known as cross-tabulation tables or two-way tables, are
 
 For example: A Contigency table could be used to explore the relationship between Breast and Ovarian cancer and display the frequency of observation falling into each category for each variable.
 
-<img width="433" alt="Contingency Table" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/92bbea4e-4166-4b62-97e8-4906112d2576">
+<img width="550" alt="Contingency Table" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/92bbea4e-4166-4b62-97e8-4906112d2576">
 
 
 # Bar Chart
