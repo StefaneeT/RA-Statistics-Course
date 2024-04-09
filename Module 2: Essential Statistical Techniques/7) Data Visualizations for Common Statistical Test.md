@@ -32,7 +32,12 @@ For example: A scatterplot with a regression line can be used to visualize the p
 # Boxplots:
 Box-plot is also commonly used for visualizing t-test and one-way ANOVA. Box plots are charts used to represent distributions of data. They provide a visual summary of the data by presenting important statistical measures such as median, quartiles, and outliers in a single graph. Since t-test (independent t-test and paired t-test) and one-way ANOVA are used to assess the mean (± SD) difference between the groups, a boxplot with error bars is the best for representing these tests. In addition, Mann-Whitney test, paired samples Wilcoxon test and Kruskal-Wallis test are non-parametric alternatives of independent t-test, paired t-test and one-way ANOVA respectively. In these tests, variables are usually expressed as median (interquartile range); therefore boxplots are a good data visualization technique for these tests. In the box-plot, we can visualize median, interquartile range (i.e. 1st quartile and 3rd quartile), minimum and maximum. Since non-parametric tests like Mann-Whitney test, paired samples Wilcoxon test and Kruskal-Wallis test are used to assess difference in spread of variables between groups, box-plot is the best option.
 
-For example: A boxplot could be used to observe the Body-Mass Index amongst genders (boxplot without error bars)
+For example: A boxplot could be used to observe the Body-Mass Index amongst genders
 <img width="600" alt="Boxplot2" src= "https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/4cb70754-9939-49c2-95b9-9df9f92635f3">
 
-For example:
+# Line Charts
+
+Line charts are useful for visualizing trends and changes over time. In a line chart, time or the other continuous variable is plotted on the horizontal axis, while the values of the data to be illustrated are plotted on the vertical axis.
+
+For example: A line chart could be used to visualize the IMR (per 1000 live births) in India from 2010 to 2019.
+<img width="600" alt="Scatterplot" src="https://f000.backblazeb2.com/file/cGbgmedia/pic5sf8ks781uqvbb64aiwvo.png">
