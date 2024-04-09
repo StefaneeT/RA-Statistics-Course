@@ -29,8 +29,10 @@ For example: A scatterplot with a regression line can be used to visualize the p
 <img width="600" alt="Scatterplot" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/6d6de96a-2b13-4494-bf7a-7bbedaa47010">
 
 
-# T-test or One-way ANOVA:
-Since t-test (independent t-test and paired t-test) and one-way ANOVA are used to assess the mean (± SD) difference between the groups, plot with error bars is the best for representing these tests. Box-plot is also commonly used for visualizing t-test and one-way ANOVA.
+# Boxplots:
+Box-plot is also commonly used for visualizing t-test and one-way ANOVA. Box plats are charts used to represent distributions of data. They provide a visual summary of the data by presenting important statistical measures such as median, quartiles, and outliers in a single graph. Since t-test (independent t-test and paired t-test) and one-way ANOVA are used to assess the mean (± SD) difference between the groups, plot with error bars is the best for representing these tests. 
+
+<img src="https://datatab.net/assets/tutorial/fig/multiBarChart.png" width="650" height="400">
 
 # Mann-Whitney U test or paired samples Wilcoxon test or Kruskal-Wallis test:
 Mann-Whitney test, paired samples Wilcoxon test and Kruskal-Wallis test are non-parametric alternatives of independent t-test, paired t-test and one-way ANOVA respectively.
