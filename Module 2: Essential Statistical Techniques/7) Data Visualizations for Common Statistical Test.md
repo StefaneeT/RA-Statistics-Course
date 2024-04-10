@@ -61,7 +61,7 @@ For example: A line chart could be used to visualize the IMR (per 1000 live birt
 <img width="600" alt="Scatterplot" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/8570bda8-e309-4094-9e05-676aad02d5ad">
 
 # Heat Maps
-Heat maps are graphical representations used to visualize the magnitude of values within a matrix or table of data. They are particularly useful for displaying complex datasets or patterns by using color gradients to represent variations in the data. Heat maps themselves are not used as the basis for statistical tests. Instead, they are a visualization tool used to explore and present data. Researchers can use heat maps for data exploration, genomic data analysis, spatial analysis, cluster analysis, ANOVA or MANOVA, etc.
+Heat maps are used to visualize the magnitude of values within a matrix or table of data. They are particularly useful for displaying complex datasets or patterns by using color gradients to represent variations in the data. Heat maps themselves are not used as the basis for statistical tests. Instead, they are a visualization tool used to explore and present data. Researchers can use heat maps for data exploration, genomic data analysis, spatial analysis, cluster analysis, ANOVA or MANOVA, etc.
 
 For example: A heat map could be used to visualize temperature forecast data across the United States.
 
@@ -69,6 +69,6 @@ For example: A heat map could be used to visualize temperature forecast data acr
 
 # Recap
 
-In conclusion, the inclusion of visualizations in research papers is important because visualizations provide a clear and concise representation of complex data. Visualizations aid in the interpretation and communication of research findings to both expert and non-expert audiences. By incorporating visualizations, researchers enhance the impact of their work, making it easier for readers to grasp key insights and trends. Moreover, visualizations serve as tools for hypothesis generation, data exploration, and validation, which enables researchers to uncover patterns and relationships that may not be apparent from numerical summaries alone. Researchers should prioritize the creation and inclusion of visualizations in their research papers, ensuring that their findings are effectively communicated and understood. 
+In conclusion, including visualizations in research is important because visualizations provide a clear and concise representation of complex data. Visualizations aid in the interpretation and communication of research findings to both expert and non-expert audiences. By incorporating visualizations, researchers enhance the impact of their work, making it easier for readers to grasp key insights and trends. In addition, visualizations serve as tools for hypothesis generation, data exploration, and validation, which enables researchers to uncover patterns and relationships that may not be apparent from numerical summaries alone. Researchers should prioritize the creation and inclusion of visualizations in their research papers, ensuring that their findings are effectively communicated and understood. 
 In addition, researchers should keep in mind that coding plays a crucial role in the creation of visualizations for research papers. 
 
