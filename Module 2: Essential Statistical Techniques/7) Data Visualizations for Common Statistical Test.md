@@ -62,3 +62,5 @@ Line charts are useful for visualizing trends and changes over time. In a line c
 For example: A line chart could be used to visualize the IMR (per 1000 live births) in India from 2010 to 2019.
 <img width="600" alt="Scatterplot" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/8570bda8-e309-4094-9e05-676aad02d5ad">
 
+# Heat Maps
+Heat maps are graphical representations used to visualize the magnitude of values within a matrix or table of data. They are particularly useful for displaying complex datasets or patterns by using color gradients to represent variations in the data. Heat maps themselves are not used as the basis for statistical tests. Instead, they are a visualization tool used to explore and present data. Researchers can use heat maps for data exploration, genomic data analysis, spatial analysis, cluster analysis, ANOVA or MANOVA, etc.
