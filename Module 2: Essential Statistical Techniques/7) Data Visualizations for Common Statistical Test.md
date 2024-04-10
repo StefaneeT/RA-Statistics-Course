@@ -19,7 +19,8 @@ For example: A Contigency table could be used to explore the relationship betwee
 
 
 # Bar Chart
-For tests where both the variables are categorical like chi-square test and fisher-exact test, bar-charts are most commonly used.
+
+A bar chart is used to represent discrete data, where the data is divided into separate categories. The height of each bar represents the frequency or quantity of the data that falls into that category. For tests where both the variables are categorical like chi-square test and fisher-exact test, bar-charts are most commonly used.
 
 For example: A bar chart could be used to visualize the frequency of car brands in a class of students according to gender
 <img src="https://datatab.net/assets/tutorial/fig/multiBarChart.png" width="650" height="400">
@@ -27,22 +28,18 @@ For example: A bar chart could be used to visualize the frequency of car brands 
 ## Bar chart vs. Histogram
 A bar chart and a histogram are both types of graphical representations of data, but they are used to display different types of information.
 
-A bar chart is used to represent discrete data, where the data is divided into separate categories. The height of each bar represents the frequency or quantity of the data that falls into that category.
-
-A histogram, on the other hand, is used to represent continuous data, where the data is divided into a set of bins or intervals. The height of each bar represents the frequency or quantity of the data that falls into that bin or interval. The bars in a histogram are usually adjacent and there is no space between them.
-
 The main difference between a bar chart and a histogram is the type of data they represent and the way the data is divided and displayed. Histograms are used for metric variables such as salary or age, and bar charts for ordinal or nominal variables such as gender or school grade.
 
 # Histogram
 
-A histogram is a graphical representation of data distribution. It uses bars of varying heights to show the frequency of data items in successive numerical intervals. The height of a bar corresponds to the frequency of data in that range.
+A histogram  is used to represent data distribution, where the data is divided into a set of bins or intervals. The height of each bar represents the frequency or quantity of the data that falls into that bin or interval. The bars in a histogram are usually adjacent and there is no space between them.
 
 For example: A histogram would be used to visualize the results of a exam scores of students.
 <img width="650" alt="Histogram" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/794bb80c-f6d9-4535-98d5-6648dd9b264d">
 
 
-# Correlation
-For Pearson correlation, where both the variables are continuous, scatter plot with regression line is best to visualize the data.
+# Scatterplot
+A scatterplot is a graphical representation used to display the relationship between two continuous variables. In a scatterplot, each data point is plotted as a point on the graph, with one variable represented on the x-axis and the other variable represented on the y-axis. Scatter plots are best used to visualize correlation, regression, goodness of fit, outlier detection, etc.
 
 For example: A scatterplot with a regression line can be used to visualize the points of individuals asked for their weight and height.
 
