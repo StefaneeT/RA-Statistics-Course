@@ -39,7 +39,7 @@ For example: A histogram would be used to visualize the results of a exam scores
 
 
 # Scatterplot
-A scatterplot is a graphical representation used to display the relationship between two continuous variables. In a scatterplot, each data point is plotted as a point on the graph, with one variable represented on the x-axis and the other variable represented on the y-axis. Scatter plots are best used to visualize correlation, regression, goodness of fit, outlier detection, etc.
+A scatterplot is used to display the relationship between two continuous variables. In a scatterplot, each data point is plotted as a point on the graph, with one variable represented on the x-axis and the other variable represented on the y-axis. Scatter plots are best used to visualize correlation, regression, goodness of fit, outlier detection, etc.
 
 For example: A scatterplot with a regression line can be used to visualize the points of individuals asked for their weight and height.
 
