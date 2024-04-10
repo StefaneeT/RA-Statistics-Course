@@ -2,6 +2,8 @@
 
 Incorporating visualizations in research is crucial for enhancing data interpretation and communication. Visual representations such as graphs and charts enable researchers to discern patterns and trends within their data, this facilitates clearer insights and compelling presentations. To create these visualizations, researchers should develop a code tailored to their specific data and analysis needs by utilizing programming languages like Python or R to create customizable and reproducible graphs.
 
+In this module, we will explore various types of graphs commonly used in research to visualize data effectively. 
+
 
 # Summary Statistics Tables
 Summary statistics tables are used to present key descriptive statistics that summarize the characteristics of a dataset. These tables typically include measures such as the mean, median, mode, standard deviation, minimum, maximum, and quartiles for numerical variables, as well as frequencies and percentages for categorical variables. Summary statistics tables themselves do not dictate a specific statistical test but provide crucial information that guides the selection of appropriate tests based on the research question and the nature of the data.
