@@ -28,6 +28,8 @@ A probabilistic classifier based on Bayes' theorem. This concept assumes that th
 A simple algorithm that stores all available cases and classifies new cases based on a similarity measure. The new case is assigned to the class most common among its k nearest neighbors.
 * Useful when the decision boundary is irregular or difficult to model with other algorithms and appropriate for both classification and regression tasks.
 
+ <img width="450" alt="LDA" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*OltO4Txr-D0lPWNL.png">
+
 ### Neural Networks:
 
 Computational models inspired by the structure and function of the human brain. This is composed of interconnected nodes (neurons) that process information using activation functions.
