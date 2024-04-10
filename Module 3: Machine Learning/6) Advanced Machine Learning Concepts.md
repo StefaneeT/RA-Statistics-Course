@@ -70,6 +70,8 @@ A linear approach to modeling the relationship between a dependent variable and 
 An Unsupervised learning algorithm used for clustering. Divides a set of samples into clusters of approximately equal variance, minimizing a criterion known as the inertia or within-cluster sum-of-squares.
 * Suitable for partitioning data into distinct clusters. Effective for exploratory data analysis and when the number of clusters is known or can be estimated.
 
+<img width="500" alt="K-Means" src="https://av-eks-blogoptimized.s3.amazonaws.com/46668k-means-clustering-algorithm-in-machine-learning.png">
+
 ### Hierarchical Clustering:
 
 An unsupervised clustering algorithm that builds a hierarchy of clusters. This can be agglomerative (bottom-up) or divisive (top-down).
