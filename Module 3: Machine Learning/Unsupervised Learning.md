@@ -41,7 +41,7 @@ Examples of association problems include:
 * Tailored marketing campaigns: Pinpointing specific combinations of products or services that are often associated with particular demographic groups (such as age, occupation, etc.).
 * Medical analytics: Revealing correlations between symptoms, treatments, and patient outcomes to enhance diagnosis or treatment strategies.
 
-  # Dimensionality Reduction
+# Dimensionality Reduction
   
 Dimensionality reduction is a method employed in machine learning to manage extensive information effectively. Its purpose is to decrease the number of inputs or features while retaining crucial aspects of the data, thereby simplifying data handling and comprehension. For instance, it can refine images to enhance their appearance.
 
