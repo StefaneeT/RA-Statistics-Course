@@ -64,3 +64,7 @@ For example: A line chart could be used to visualize the IMR (per 1000 live birt
 
 # Heat Maps
 Heat maps are graphical representations used to visualize the magnitude of values within a matrix or table of data. They are particularly useful for displaying complex datasets or patterns by using color gradients to represent variations in the data. Heat maps themselves are not used as the basis for statistical tests. Instead, they are a visualization tool used to explore and present data. Researchers can use heat maps for data exploration, genomic data analysis, spatial analysis, cluster analysis, ANOVA or MANOVA, etc.
+
+For example: A heat map could be used to visualize temperature forecast data across the US.
+<img width="600" alt="Heatmap" src="https://mouseflow.com/wp-content/uploads/2023/05/interpreting-a-weather-heatmap-1024x836.png">
+
