@@ -49,7 +49,7 @@ A decision support tool that uses a tree-like graph of decisions and their possi
 Techniques that combine multiple individual models to improve predictive performance. Examples include Random Forest, Gradient Boosting Machines (GBM), and AdaBoost.
 * Recommended when individual models exhibit high variance or bias. Useful for improving overall predictive performance and generalization.
 
-  <img width="500" alt="Ensemble Models" src="https://miro.medium.com/v2/resize:fit:2000/1*T8NnkvKIRmZT38EZ9GDoZg.png">
+  <img width="550" alt="Ensemble Models" src="https://miro.medium.com/v2/resize:fit:2000/1*T8NnkvKIRmZT38EZ9GDoZg.png">
   
 ### Non-linear Regression:
 
