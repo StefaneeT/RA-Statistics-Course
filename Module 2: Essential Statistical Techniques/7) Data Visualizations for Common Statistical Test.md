@@ -1,6 +1,6 @@
 # Importance of Data Visualizations in Research
 
-Incorporating visualizations in research is crucial for enhancing data interpretation and communication. Visual representations such as graphs and charts enable researchers to discern patterns and trends within their data, this facilitates clearer insights and compelling presentations. To create these visualizations, researchers should develop a code tailored to their specific data and analysis needs by utilizing programming languages like Python or R to create customizable and reproducible graphs.
+Incorporating visualizations in research is crucial for enhancing data interpretation and communication. Visual representations such as graphs and charts enable researchers to observe patterns and trends within their data. To create these visualizations, researchers should develop a code tailored to their specific data and analysis needs by utilizing programming languages like Python or R to create customizable and reproducible graphs.
 
 In this module, we will explore various types of graphs commonly used in research to visualize data effectively. 
 
