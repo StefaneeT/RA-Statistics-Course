@@ -27,3 +27,26 @@ Examples of clustering problems include:
 * Image compression: Reducing the size of an image by grouping similar pixels together
 * Social network analysis: Identifying communities or groups within social networks based on connections and interactions between individuals
 * Anomaly detection: Detecting abnormal behavior, such as network intrusions or suspicious bank transactions
+
+# Association
+Association focuses on discovering connections or relationships between items without predetermined labels or outcomes.
+
+Association analysis is frequently applied to uncover intriguing associations or patterns, such as in market basket analysis where the objective is to identify items that are frequently purchased together, like products commonly found in a grocery store.
+
+The outcome of association analysis typically takes the form of "if X, then Y," indicating that when item X is present (for example, cappuccino), there's a strong chance of item Y also being present (such as a muffin).
+
+Examples of association problems include:
+
+* Recommendation systems: Generating personalized recommendations by identifying correlations in purchases across different categories (like "frequently bought together" suggestions).
+* Tailored marketing campaigns: Pinpointing specific combinations of products or services that are often associated with particular demographic groups (such as age, occupation, etc.).
+* Medical analytics: Revealing correlations between symptoms, treatments, and patient outcomes to enhance diagnosis or treatment strategies.
+
+  # Dimensionality Reduction
+  
+Dimensionality reduction is a method employed in machine learning to manage extensive information effectively. Its purpose is to decrease the number of inputs or features while retaining crucial aspects of the data, thereby simplifying data handling and comprehension. For instance, it can refine images to enhance their appearance.
+
+Examples of dimensionality reduction applications include:
+
+* Image and video processing: Streamlining and enhancing images and videos, minimizing storage requirements while retaining essential visual details.
+* Genetic research: Facilitating the analysis of vast genetic data sets. By simplifying the data's complexity, researchers can investigate and interpret genetic information more effectively.
+* Document classification: Enhancing the usability of online journal databases. Significant features can be extracted from article content, enabling more efficient database organization.
