@@ -2,10 +2,10 @@
 <img width="800" alt="Machine Learning Overview" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/def3c846-e3de-4424-8c89-ef967abc9ad5">
 
 
-### Support Vector Machines (SVM):
-
-Supervised learning algorithm used for classification and regression analysis.
+### Support Vector Machines (SVM): Supervised learning algorithm used for classification and regression analysis.
 Constructs a hyperplane in a high-dimensional space to separate classes.
+
+
 Discriminant Analysis:
 
 A statistical technique used for classification and dimensionality reduction.
