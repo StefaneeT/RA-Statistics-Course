@@ -63,8 +63,8 @@ Regression analysis where the relationship between the independent variables and
 A linear approach to modeling the relationship between a dependent variable and one or more independent variables. It assumes a linear relationship between the independent and dependent variables.
 * Appropriate for understanding the relationship between dependent and independent variables when it is assumed to be linear. Useful for prediction and inference tasks.
 
-  <img width="500" alt="Ensemble Models" src="https://www.scribbr.com/wp-content/uploads//2020/02/simple-linear-regression-graph.png">
-  
+  <img width="500" alt="Linear Regression" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/774fdb83-3c09-46d8-a1aa-40aaa5a05e95">
+
 ### K-means:
 
 An Unsupervised learning algorithm used for clustering. Divides a set of samples into clusters of approximately equal variance, minimizing a criterion known as the inertia or within-cluster sum-of-squares.
