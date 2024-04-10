@@ -1,7 +1,7 @@
 # Summary Statistics Tables
 Summary statistics tables are used to present key descriptive statistics that summarize the characteristics of a dataset. These tables typically include measures such as the mean, median, mode, standard deviation, minimum, maximum, and quartiles for numerical variables, as well as frequencies and percentages for categorical variables. Summary statistics tables themselves do not dictate a specific statistical test but provide crucial information that guides the selection of appropriate tests based on the research question and the nature of the data.
 
-<img width="385" alt="Summary Statistics Table" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/53201b10-93bd-44fd-b9ba-16e14dff8b87">
+<img width="450" alt="Summary Statistics Table" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/53201b10-93bd-44fd-b9ba-16e14dff8b87">
 
 # Contingency Tables
 Contingency tables, also known as cross-tabulation tables or two-way tables, are used in statistics to summarize and analyze the relationship between two categorical variables. These tables display the frequencies or relative frequencies of observations falling into various categories for each variable. The appropriate statistical test for analyzing data in a contingency table depends on factors such as study design, sample size, and variable characteristics. However, common tests include the chi-square test for independence, Fisher's exact test for small samples or low expected cell frequencies, and McNemar's test for paired categorical data.
