@@ -5,15 +5,17 @@
 ### Support Vector Machines (SVM): 
 A Supervised learning algorithm used for classification and regression analysis. This concept constructs a hyperplane in a high-dimensional space to separate classes.
 
-* Use when dealing with high-dimensional data or when the number of dimensions is greater than the number of samples. This is also effective for both linearly separable and non-linearly separable dataset
+* Use when dealing with high-dimensional data or when the number of dimensions is greater than the number of samples. This is also effective for both linearly separable and non-linearly separable dataset.
 <img width="350" alt="SVM" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/c7a36de7-5fc9-4128-89c0-c5c0513dfb69">
 
 
-### Discriminant Analysis:
+### Linear Discriminant Analysis:
 
 A statistical technique used for classification and dimensionality reduction. It seeks to find the linear combination of features that characterizes or separates two or more classes.
 * Useful when the goal is to classify observations into distinct categories based on predictor variables and when the assumption of normality holds for the data distribution.
-  
+
+  <img width="350" alt="LDA" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/ce58aeed-d8f5-4beb-a999-cef1c588c2b1">
+
 ### Naive Bayes:
 
 A probabilistic classifier based on Bayes' theorem. This concept assumes that the presence of a particular feature in a class is independent of the presence of other features.
