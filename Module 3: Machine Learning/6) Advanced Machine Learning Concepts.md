@@ -21,6 +21,8 @@ A statistical technique used for classification and dimensionality reduction. It
 A probabilistic classifier based on Bayes' theorem. This concept assumes that the presence of a particular feature in a class is independent of the presence of other features.
 * Ideal for text classification tasks such as spam detection, sentiment analysis, or document categorization and works well with large feature spaces and relatively small datasets.
 
+  <img width="450" alt="LDA" src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/05.05-gaussian-NB.png">
+
 ### Nearest Neighbor:
 
 A simple algorithm that stores all available cases and classifies new cases based on a similarity measure. The new case is assigned to the class most common among its k nearest neighbors.
