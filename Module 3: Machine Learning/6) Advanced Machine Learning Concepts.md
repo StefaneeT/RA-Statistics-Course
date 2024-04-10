@@ -3,9 +3,9 @@
 
 
 ### Support Vector Machines (SVM): 
-Supervised learning algorithm used for classification and regression analysis.
-Constructs a hyperplane in a high-dimensional space to separate classes.
+A Supervised learning algorithm used for classification and regression analysis. This concept constructs a hyperplane in a high-dimensional space to separate classes.
 
+* Use when dealing with high-dimensional data or when the number of dimensions is greater than the number of samples. This is also effective for both linearly separable and non-linearly separable dataset
 
 ### Discriminant Analysis:
 
