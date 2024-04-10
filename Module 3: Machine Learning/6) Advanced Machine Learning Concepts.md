@@ -92,4 +92,4 @@ A probabilistic model used for representing the presence of subpopulations withi
 Statistical models used to model sequences of observable events (e.g., speech, handwriting). Consists of states, transitions between states, and emission probabilities associated with each state.
 * Suitable for modeling sequential data with probabilistic dependencies between observations. Useful for tasks such as speech recognition, bioinformatics, and time series analysis.
   
-<img width="304" alt="HMM" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/f03fc0ca-e9d6-4da4-9532-b46d2ed60ffb">
+<img width="400" alt="HMM" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/f03fc0ca-e9d6-4da4-9532-b46d2ed60ffb">
