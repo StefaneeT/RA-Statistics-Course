@@ -14,7 +14,7 @@ A Supervised learning algorithm used for classification and regression analysis.
 A statistical technique used for classification and dimensionality reduction. It seeks to find the linear combination of features that characterizes or separates two or more classes.
 * Useful when the goal is to classify observations into distinct categories based on predictor variables and when the assumption of normality holds for the data distribution.
 
-  <img width="450" alt="LDA" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/ce58aeed-d8f5-4beb-a999-cef1c588c2b1">
+  <img width="500" alt="LDA" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/ce58aeed-d8f5-4beb-a999-cef1c588c2b1">
 
 ### Naive Bayes:
 
