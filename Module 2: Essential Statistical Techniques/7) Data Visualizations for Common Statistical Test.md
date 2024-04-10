@@ -7,6 +7,7 @@ In this module, we will explore various types of graphs commonly used in researc
 # Summary Statistics Tables
 Summary statistics tables are used to present key descriptive statistics that summarize the characteristics of a dataset. These tables typically include measures such as the mean, median, mode, standard deviation, minimum, maximum, and quartiles for numerical variables, as well as frequencies and percentages for categorical variables. Summary statistics tables themselves do not dictate a specific statistical test but provide crucial information that guides the selection of appropriate tests based on the research question and the nature of the data.
 
+For Example: A Summary statistics table could be created to observe demographic data of participants.
 <img width="450" alt="Summary Statistics Table" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/53201b10-93bd-44fd-b9ba-16e14dff8b87">
 
 # Contingency Tables
