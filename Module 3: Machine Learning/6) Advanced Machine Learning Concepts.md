@@ -42,7 +42,7 @@ Computational models inspired by the structure and function of the human brain. 
 A decision support tool that uses a tree-like graph of decisions and their possible consequences. Each internal node represents a "test" on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label.
 * Useful for understanding and visualizing decision-making processes. Applicable when dealing with both numerical and categorical data.
 
-  <img width="450" alt="Decision Trees" src="https://miro.medium.com/v2/resize:fit:1400/1*ER9uqmxlsLue-o3eUyMpHA.png">
+  <img width="550" alt="Decision Trees" src="https://miro.medium.com/v2/resize:fit:1400/1*ER9uqmxlsLue-o3eUyMpHA.png">
 
 ### Ensemble Models:
 
