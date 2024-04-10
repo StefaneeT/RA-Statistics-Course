@@ -77,6 +77,9 @@ An Unsupervised learning algorithm used for clustering. Divides a set of samples
 An unsupervised clustering algorithm that builds a hierarchy of clusters. This can be agglomerative (bottom-up) or divisive (top-down).
 * Appropriate when the data has a nested structure or when the number of clusters is not known prior. Useful for creating a dendrogram to understand the relationships between clusters.
 
+<img width="774" alt="Hierarchical Clustering" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/1f978097-be3e-4c93-9c1f-fbfbaacf9f2c">
+
+
 ### Gaussian Mixture Models:
 
 A probabilistic model used for representing the presence of subpopulations within an overall population. This Assumes that all data points are generated from a mixture of several Gaussian distributions.
