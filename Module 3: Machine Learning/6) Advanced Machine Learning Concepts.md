@@ -56,7 +56,7 @@ Techniques that combine multiple individual models to improve predictive perform
 Regression analysis where the relationship between the independent variables and the dependent variable is modeled as non-linear. Uses methods like polynomial regression, exponential regression, or spline regression.
 * Suitable when the relationship between independent and dependent variables is non-linear. Useful for modeling phenomena where simple linear models are inadequate.
 
-  <img width="550" alt="Ensemble Models" src="http://www.sthda.com/english/sthda-upload/figures/machine-learning-essentials/009-polynomial-and-spline-regression-scatter-plot-1.png">
+  <img width="500" alt="Ensemble Models" src="http://www.sthda.com/english/sthda-upload/figures/machine-learning-essentials/009-polynomial-and-spline-regression-scatter-plot-1.png">
   
 ### Linear Regression:
 
