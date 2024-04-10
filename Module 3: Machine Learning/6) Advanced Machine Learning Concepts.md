@@ -70,7 +70,7 @@ A linear approach to modeling the relationship between a dependent variable and 
 An Unsupervised learning algorithm used for clustering. Divides a set of samples into clusters of approximately equal variance, minimizing a criterion known as the inertia or within-cluster sum-of-squares.
 * Suitable for partitioning data into distinct clusters. Effective for exploratory data analysis and when the number of clusters is known or can be estimated.
 
-<img width="500" alt="K-Means" src="https://miro.medium.com/v2/resize:fit:1080/0*KfNpMUTtyCNQwYnp.png">
+<img width="520" alt="K-Means" src="https://miro.medium.com/v2/resize:fit:1080/0*KfNpMUTtyCNQwYnp.png">
 
 ### Hierarchical Clustering:
 
