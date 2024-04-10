@@ -85,6 +85,8 @@ An unsupervised clustering algorithm that builds a hierarchy of clusters. This c
 A probabilistic model used for representing the presence of subpopulations within an overall population. This Assumes that all data points are generated from a mixture of several Gaussian distributions.
 * Recommended when the data is assumed to be generated from multiple Gaussian distributions. Useful when dealing with data that may exhibit overlapping clusters or mixed memberships.
 
+<img width="774" alt="Hierarchical Clustering" src="https://i.stack.imgur.com/s3QiK.png">
+
 ### Hidden Markov Models (HMM):
 
 Statistical models used to model sequences of observable events (e.g., speech, handwriting). Consists of states, transitions between states, and emission probabilities associated with each state.
