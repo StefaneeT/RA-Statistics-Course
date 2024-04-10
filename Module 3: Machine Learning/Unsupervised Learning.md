@@ -15,3 +15,15 @@ Unsupervised learning is used for three main tasks:
 3. Dimensionality reduction
   
 In each of these tasks, we want to discover the inherent structure of our data for which no predefined categories or labels exist.
+
+# Clustering
+
+Clustering is a method in machine learning used to categorize unlabeled data according to their similarities or dissimilarities. This technique allows us to uncover patterns within the data even when we lack prior knowledge about what we're seeking.
+
+An illustration of clustering is organizing customers into distinct segments based on shared characteristics, similar to finding natural groupings within the data. Think of clustering as sorting a stack of books into different genres or topics without any prior information about the books. Each book is examined individually, and if they exhibit similarities, they are grouped together.
+
+Examples of clustering problems include:
+* Recommendation systems: Grouping users or items with similar preferences or characteristics to make personalized recommendations for products, movies, or music
+* Image compression: Reducing the size of an image by grouping similar pixels together
+* Social network analysis: Identifying communities or groups within social networks based on connections and interactions between individuals
+* Anomaly detection: Detecting abnormal behavior, such as network intrusions or suspicious bank transactions
