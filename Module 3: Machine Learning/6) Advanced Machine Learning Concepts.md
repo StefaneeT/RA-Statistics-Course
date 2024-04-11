@@ -93,3 +93,14 @@ Statistical models used to model sequences of observable events (e.g., speech, h
 * Suitable for modeling sequential data with probabilistic dependencies between observations. Useful for tasks such as speech recognition, bioinformatics, and time series analysis.
   
 <img width="400" alt="HMM" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/f03fc0ca-e9d6-4da4-9532-b46d2ed60ffb">
+
+### Random Forest
+
+Random Forest is an ensemble learning method used for classification and regression tasks. It builds multiple decision trees during training and merges their predictions to make a final prediction.
+The algorithm introduces randomness in two ways: selecting a random subset of features to split each node and bootstrapping the training data.
+
+*Useful when you want to measure feature importance, as the model provides insights into the impact of different features on predictions.
+
+<img width="400" alt="HMM" src="https://cdn.corporatefinanceinstitute.com/assets/random-forest.png">
+
+
