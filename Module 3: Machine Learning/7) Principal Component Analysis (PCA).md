@@ -34,4 +34,4 @@ The first component can be thought of as the line of best fit that minimizes inf
 * Difficulty in Determining Number of Components: Deciding the optimal number of principal components can be challenging and may require domain knowledge or trial and error.
 * Not Ideal for Sparse Data: PCA may not perform well on sparse data, where there are many missing or zero values.
 
-<img width="576" alt="PCA" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/4b2cfc68-4b7c-49b1-bc3f-210dd4b3f56f">
+<img width="776" alt="PCA" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/4b2cfc68-4b7c-49b1-bc3f-210dd4b3f56f">
