@@ -101,6 +101,6 @@ The algorithm introduces randomness in two ways: selecting a random subset of fe
 
 *Useful when you want to measure feature importance, as the model provides insights into the impact of different features on predictions.
 
-<img width="400" alt="HMM" src="https://cdn.corporatefinanceinstitute.com/assets/random-forest.png">
+<img width="450" alt="HMM" src="https://cdn.corporatefinanceinstitute.com/assets/random-forest.png">
 
 
