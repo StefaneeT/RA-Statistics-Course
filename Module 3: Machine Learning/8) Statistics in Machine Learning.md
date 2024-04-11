@@ -10,11 +10,9 @@ Machine learning, on the other hand, is a powerful method for enabling computers
 
 This is where the integration of statistics and machine learning shines. Statistics provides the essential principles that form the foundation of machine learning.
 
-Creating machine learning models: Statistics offers methodologies and principles for developing machine learning models. For example, linear regression employs the statistical method of least squares to determine coefficients.
-Understanding results: Statistical concepts help interpret the output of machine learning models. Metrics such as p-value, confidence intervals, and R-squared offer a statistical perspective on the model’s performance.
-Model validation: Statistical techniques play a key role in validating and refining machine learning models. Methods like hypothesis testing, cross-validation, and bootstrapping quantify model performance and help prevent issues like overfitting.
-Supporting advanced methods: Even sophisticated machine learning algorithms, such as neural networks, rely on statistical principles. Optimization methods like gradient descent, used to train these models, stem from statistical theory.
-A strong grasp of statistics not only aids in constructing and validating machine learning models but also enables meaningful interpretation of their outputs.
+Statistics offers methodologies and principles for developing machine learning models. For example, linear regression employs the statistical method of least squares to determine coefficients. Statistical concepts also help interpret the output of machine learning models. Metrics such as p-value, confidence intervals, and R-squared offer a statistical perspective on the model’s performance. In addition, statistical techniques play a key role in validating and refining machine learning models. Methods like hypothesis testing, cross-validation, and bootstrapping quantify model performance and help prevent issues like overfitting. Even sophisticated machine learning algorithms, such as neural networks, rely on statistical principles. Optimization methods like gradient descent, used to train these models, stem from statistical theory.
+
+A strong grasp of statistics not only aids in constructing and validating machine learning models but also enables meaningful interpretation of outputs.
 
 
 <img width="550" alt="Ensemble Models" src="https://miro.medium.com/v2/resize:fit:400/0*0o8cCtW-obWCQBHA.png">
