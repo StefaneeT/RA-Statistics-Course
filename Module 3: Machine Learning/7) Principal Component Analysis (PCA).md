@@ -11,7 +11,7 @@ It is ideal for data compression, noise reduction, and data preprocessing before
 # Example
 Werner and Friedrich (2014) provided an effective example of Principal Component Analysis using fish as the subject.
 
- <img width="350" alt="SVM" src="https://devopedia.org/images/article/139/9153.1547301619.png">
+ <img width="550" alt="SVM" src="https://devopedia.org/images/article/139/9153.1547301619.png">
 
 
 In this example, we can represent the shape of a fish using two dimensions: height and width. However, these two dimensions are not independent and are strongly correlated. Knowing one allows us to predict the other. This suggests that the shape of a fish can be described using a single component.
