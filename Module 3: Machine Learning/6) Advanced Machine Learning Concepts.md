@@ -1,6 +1,8 @@
 
 <img width="800" alt="Machine Learning Overview" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/d2b4ebae-8297-4cea-8604-42c9b65d7d25">
 
+This model categorizes the methods at glance. However, it's good to know that for nearly all of the methods listed for supervised learning they can be used for both regression and classification. In addition, the linear vs non-linear vs non-parametric distinction is also applicable for classification, not just for regression.
+
 ### Support Vector Machines (SVM): 
 A Supervised learning algorithm used for classification and regression analysis. This concept constructs a hyperplane in a high-dimensional space to separate classes.
 
