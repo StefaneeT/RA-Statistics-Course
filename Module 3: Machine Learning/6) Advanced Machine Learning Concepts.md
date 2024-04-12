@@ -1,6 +1,5 @@
 
-<img width="800" alt="Machine Learning Overview" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/def3c846-e3de-4424-8c89-ef967abc9ad5">
-
+<img width="800" alt="Machine Learning Overview" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/d2b4ebae-8297-4cea-8604-42c9b65d7d25">
 
 ### Support Vector Machines (SVM): 
 A Supervised learning algorithm used for classification and regression analysis. This concept constructs a hyperplane in a high-dimensional space to separate classes.
