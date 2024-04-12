@@ -1,6 +1,7 @@
 # What is Supervised Learning?
 
-Supervised learning has the involvement of a human "guide" that provides labeled, annotated data or instances comprising problem-solution pairs to the computer.
+Supervised learning has the involvement of a human "guide" that provides labeled, annotated data or instances comprising problem-solution pairs to the computer. 
+In the previous lessons, we discussed simple linear regression and logistic regression which are also examples of supervised learning.
 
 ## Supervised learning example:
 
