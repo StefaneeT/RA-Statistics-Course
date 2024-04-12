@@ -14,5 +14,3 @@ Statistics offers methodologies and principles for developing machine learning m
 
 A strong grasp of statistics not only aids in constructing and validating machine learning models but also enables meaningful interpretation of outputs.
 
-
-<img width="550" alt="Ensemble Models" src="https://miro.medium.com/v2/resize:fit:400/0*0o8cCtW-obWCQBHA.png">
