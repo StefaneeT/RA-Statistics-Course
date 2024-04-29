@@ -6,7 +6,7 @@ Consider a scenario where a computer is tasked with distinguishing between image
 
 Instead, machine learning operates similarly to the learning process of toddlers: by exposing the computer to a vast array of labeled images—some tagged as "flower" and others as "bicycle"—the computer discerns the features that define a flower or a bicycle. As a result, the computer becomes adept at identifying flowers and bicycles in images it has not encountered during its training phase.
 
-<img width=500" alt="Machine Learning Overview" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/45a9a748-2cef-4b53-a7ff-fd290ef01812">
+<img width="500" alt="Machine Learning Overview" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/45a9a748-2cef-4b53-a7ff-fd290ef01812">
 
 
 # Advantages and Limitations
