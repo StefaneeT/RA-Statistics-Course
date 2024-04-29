@@ -51,7 +51,7 @@ Examples of dimensionality reduction applications include:
 * Genetic research: Facilitating the analysis of vast genetic data sets. By simplifying the data's complexity, researchers can investigate and interpret genetic information more effectively.
 * Document classification: Enhancing the usability of online journal databases. Significant features can be extracted from article content, enabling more efficient database organization.
 
-# An Example of Unsupervised Learning Method
+# Example of an Unsupervised Learning Method
 
 ## Principal Component Analysis
 Principal Component Analysis is a dimensionality reduction technique that transforms data into a new coordinate system. It identifies the directions (principal components) that maximize the variance in the data.
