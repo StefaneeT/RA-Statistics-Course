@@ -8,7 +8,7 @@ A Supervised learning algorithm used for classification and regression analysis.
 
 * Use when dealing with high-dimensional data or when the number of dimensions is greater than the number of samples. This is also effective for both linearly separable and non-linearly separable dataset.
 * SVMs are especially powerful in cases where the number of features is high compared to the number of observations, as they focus on the decision boundary that maximizes the margin between classes, which helps prevent the model from overfitting.
-* 
+  
 <img width="350" alt="SVM" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/c7a36de7-5fc9-4128-89c0-c5c0513dfb69">
 
 
