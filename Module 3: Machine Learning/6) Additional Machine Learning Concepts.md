@@ -35,8 +35,8 @@ This is Supervised learning algorithm which is probabilistic classifier based on
 
 A Supervised learning algorithm that stores all available cases and classifies new cases based on a similarity measure. The new case is assigned to the class most common among its k nearest neighbors.
 * Useful when the decision boundary is irregular or difficult to model with other algorithms and appropriate for both classification and regression tasks.
-* Leverage its efficiency and speed to build baseline models when computational resources are limited or initial insights into data patterns are required.
-* Adjust the prior probabilities in domain-specific applications to reflect known real-world probabilities which can significantly boost the algorithm’s accuracy and relevance in specialized contexts.
+* Select the number of neighbors 𝑘 after cross-validation to find the balance between overfitting and underfitting. Usually, a larger 𝑘 value reduces noise but makes the boundaries between classes less distinct.
+* Consider distance weighting so that nearer neighbors contribute more to the classification than more distant ones, which can enhance classification accuracy in cases where class boundaries are nuanced.
 
  <img width="500" alt="KNN" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*OltO4Txr-D0lPWNL.png">
 
@@ -44,8 +44,8 @@ A Supervised learning algorithm that stores all available cases and classifies n
 
 A Supervised learning algorithm which has computational models inspired by the structure and function of the human brain. This is composed of interconnected nodes (neurons) that process information using activation functions.
 * Effective for tasks involving complex patterns or relationships in data. Suitable for image recognition, natural language processing, and other tasks where feature engineering is challenging.
-* Select the number of neighbors 𝑘 after cross-validation to find the balance between overfitting and underfitting. Usually, a larger 𝑘 value reduces noise but makes the boundaries between classes less distinct.
-* Consider distance weighting so that nearer neighbors contribute more to the classification than more distant ones, which can enhance classification accuracy in cases where class boundaries are nuanced.
+* Experiment with different architectures (e.g., layers, nodes, activation functions) and training methods to optimize performance on specific tasks like convolutional networks for image tasks or recurrent networks for sequence data.
+* Implement regularization techniques such as dropout, early stopping, or L2 regularization to prevent overfitting, especially when dealing with very large datasets and complex models.
 
  <img width="500" alt="Neural Network" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230602113310/Neural-Networks-Architecture.png">
 
