@@ -53,6 +53,8 @@ A Supervised learning algorithm which has computational models inspired by the s
 
 A Supervised learning algorithm which has a decision support tool that uses a tree-like graph of decisions and their possible consequences. Each internal node represents a "test" on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label.
 * Useful for understanding and visualizing decision-making processes. Applicable when dealing with both numerical and categorical data.
+* Control overfitting by setting parameters such as the maximum depth of the tree, minimum samples per leaf, and minimum samples per split, which governs how detailed the tree becomes.
+* Prune trees post-training to remove sections of the tree that provide little power in classifying instances, thereby simplifying the model and improving generalization to new data.
 
   <img width="500" alt="Decision Trees" src="https://miro.medium.com/v2/resize:fit:1400/1*ER9uqmxlsLue-o3eUyMpHA.png">
 
@@ -60,6 +62,8 @@ A Supervised learning algorithm which has a decision support tool that uses a tr
 
 A Supervised learning algorithm that uses techniques that combine multiple individual models to improve predictive performance. Examples include Random Forest, Gradient Boosting Machines (GBM), and AdaBoost.
 * Recommended when individual models exhibit high variance or bias. Useful for improving overall predictive performance and generalization.
+* Integrate diverse models to capitalize on their individual strengths while compensating for their weaknesses, particularly useful in unstable datasets.
+* Tune hyperparameters like the number of trees in Random Forests and the learning rate in Boosting to optimize performance and control overfitting.
 
   <img width="550" alt="Ensemble Models" src="https://miro.medium.com/v2/resize:fit:2000/1*T8NnkvKIRmZT38EZ9GDoZg.png">
   
@@ -67,6 +71,8 @@ A Supervised learning algorithm that uses techniques that combine multiple indiv
 
 A Supervised learning algorithm that uses regression analysis where the relationship between the independent variables and the dependent variable is modeled as non-linear. Uses methods like polynomial regression, exponential regression, or spline regression.
 * Suitable when the relationship between independent and dependent variables is non-linear. Useful for modeling phenomena where simple linear models are inadequate.
+* Select the appropriate type and degree of non-linear function based on the pattern of data points observed in scatter plots to ensure a good fit.
+* Employ regularization methods to prevent overfitting, particularly when using high-degree polynomial regression.
 
   <img width="500" alt="Ensemble Models" src="http://www.sthda.com/english/sthda-upload/figures/machine-learning-essentials/009-polynomial-and-spline-regression-scatter-plot-1.png">
   
@@ -74,6 +80,8 @@ A Supervised learning algorithm that uses regression analysis where the relation
 
 A Supervised learning algorithm that uses a linear approach to modeling the relationship between a dependent variable and one or more independent variables. It assumes a linear relationship between the independent and dependent variables.
 * Appropriate for understanding the relationship between dependent and independent variables when it is assumed to be linear. Useful for prediction and inference tasks.
+* Check for and resolve issues like multicollinearity among independent variables, which can skew results, by removing or combining features.
+* Evaluate the relationship assumptions with residual plots to confirm linearity, homoscedasticity, and independence, which are crucial for the model’s validity.
 
   <img width="500" alt="Linear Regression" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/774fdb83-3c09-46d8-a1aa-40aaa5a05e95">
 
@@ -84,6 +92,8 @@ A Supervised learning algorithm used for classification and regression tasks. It
 The algorithm introduces randomness in two ways: selecting a random subset of features to split each node and bootstrapping the training data.
 
 * Useful when you want to measure feature importance, as the model provides insights into the impact of different features on predictions.
+* Enhance the generalization capability by increasing the number of trees, as more trees reduce the risk of overfitting. However, balance this against computational efficiency.
+* Adjust the randomness parameters, like the number of features considered for each split, to optimize the trade-off between bias and variance.
 
 <img width="450" alt="HMM" src="https://cdn.corporatefinanceinstitute.com/assets/random-forest.png">
 
@@ -91,6 +101,7 @@ The algorithm introduces randomness in two ways: selecting a random subset of fe
 
 An Unsupervised learning algorithm used for clustering. Divides a set of samples into clusters of approximately equal variance, minimizing a criterion known as the inertia or within-cluster sum-of-squares.
 * Suitable for partitioning data into distinct clusters. Effective for exploratory data analysis and when the number of clusters is known or can be estimated.
+* Standardize features before applying k-means to ensure all dimensions contribute equally to the distance calculations and improve cluster accuracy.
 
 <img width="520" alt="K-Means" src="https://miro.medium.com/v2/resize:fit:1080/0*KfNpMUTtyCNQwYnp.png">
 
@@ -98,6 +109,8 @@ An Unsupervised learning algorithm used for clustering. Divides a set of samples
 
 An Unsupervised learning clustering algorithm that builds a hierarchy of clusters. This can be agglomerative (bottom-up) or divisive (top-down).
 * Appropriate when the data has a nested structure or when the number of clusters is not known prior. Useful for creating a dendrogram to understand the relationships between clusters.
+* Analyze dendrogram plots to choose a cutoff and determine the number of clusters, allowing for flexible cluster formation based on the data structure.
+* Consider different linkage methods (complete, average, single) depending on the desired cluster cohesion and separation, as each method impacts the final clustering differently
 
 <img width="774" alt="Hierarchical Clustering" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/1f978097-be3e-4c93-9c1f-fbfbaacf9f2c">
 
@@ -106,6 +119,7 @@ An Unsupervised learning clustering algorithm that builds a hierarchy of cluster
 
 An Unsupervised learning algorithm with probabilistic model used for representing the presence of subpopulations within an overall population. This Assumes that all data points are generated from a mixture of several Gaussian distributions.
 * Recommended when the data is assumed to be generated from multiple Gaussian distributions. Useful when dealing with data that may exhibit overlapping clusters or mixed memberships.
+* Determine the optimal number of Gaussian components using model selection criteria like Bayesian Information Criterion (BIC) or Akaike Information Criterion (AIC), which balance goodness of fit with model complexity.
 
 <img width="500" alt="Hierarchical Clustering" src="https://i.stack.imgur.com/s3QiK.png">
 
@@ -113,6 +127,7 @@ An Unsupervised learning algorithm with probabilistic model used for representin
 
 An Unsupervised learning algorithm used to model sequences of observable events (e.g., speech, handwriting). Consists of states, transitions between states, and emission probabilities associated with each state.
 * Suitable for modeling sequential data with probabilistic dependencies between observations. Useful for tasks such as speech recognition, bioinformatics, and time series analysis.
+* Carefully select the number of states in the model based on domain knowledge and experimental validation. Too few states can oversimplify the model, failing to capture important distinctions, whereas too many states can lead to overfitting and increased computational complexity.
   
 <img width="400" alt="HMM" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/f03fc0ca-e9d6-4da4-9532-b46d2ed60ffb">
 
