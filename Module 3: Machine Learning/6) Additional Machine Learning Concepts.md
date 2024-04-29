@@ -26,6 +26,8 @@ A Supervised learning algorithm used for classification and dimensionality reduc
 
 This is Supervised learning algorithm which is probabilistic classifier based on Bayes' theorem. This concept assumes that the presence of a particular feature in a class is independent of the presence of other features.
 * Ideal for text classification tasks such as spam detection, sentiment analysis, or document categorization and works well with large feature spaces and relatively small datasets.
+* Leverage its efficiency and speed to build baseline models when computational resources are limited or initial insights into data patterns are required.
+* Adjust the prior probabilities in domain-specific applications to reflect known real-world probabilities which can significantly boost the algorithm’s accuracy and relevance in specialized contexts.
 
   <img width="450" alt="LDA" src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/05.05-gaussian-NB.png">
 
