@@ -7,7 +7,8 @@ This a good model that categorizes methods broadly, letting viewers get a genera
 A Supervised learning algorithm used for classification and regression analysis. This concept constructs a hyperplane in a high-dimensional space to separate classes.
 
 * Use when dealing with high-dimensional data or when the number of dimensions is greater than the number of samples. This is also effective for both linearly separable and non-linearly separable dataset.
-* SVMs are especially powerful in cases where the number of features is high compared to the number of observations, as they focus on the decision boundary that maximizes the margin between classes, which helps prevent the model from overfitting.
+* Utilize kernel tricks to handle non-linear separation efficiently. By mapping data into a higher-dimensional space, SVMs can find a linear separator for complex patterns.
+* Adapt the penalty parameter 𝐶 and the type of kernel (linear, polynomial, radial basis function, etc.) based on the specific requirements and complexity of the dataset to balance the trade-off between correct classification and a generalizing model.
   
 <img width="350" alt="SVM" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/c7a36de7-5fc9-4128-89c0-c5c0513dfb69">
 
@@ -16,6 +17,8 @@ A Supervised learning algorithm used for classification and regression analysis.
 
 A Supervised learning algorithm used for classification and dimensionality reduction. It seeks to find the linear combination of features that characterizes or separates two or more classes.
 * Useful when the goal is to classify observations into distinct categories based on predictor variables and when the assumption of normality holds for the data distribution.
+* Optimize by ensuring within-class variance is minimized while maximizing the variance between classes, thereby enhancing the classifier’s ability to distinguish between classes.
+* Apply as a preprocessing step for dimensionality reduction before implementing other complex classification algorithms to enhance performance and reduce computational costs.
 
   <img width="450" alt="LDA" src="https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/ce58aeed-d8f5-4beb-a999-cef1c588c2b1">
 
@@ -30,6 +33,8 @@ This is Supervised learning algorithm which is probabilistic classifier based on
 
 A Supervised learning algorithm that stores all available cases and classifies new cases based on a similarity measure. The new case is assigned to the class most common among its k nearest neighbors.
 * Useful when the decision boundary is irregular or difficult to model with other algorithms and appropriate for both classification and regression tasks.
+* Leverage its efficiency and speed to build baseline models when computational resources are limited or initial insights into data patterns are required.
+* Adjust the prior probabilities in domain-specific applications to reflect known real-world probabilities which can significantly boost the algorithm’s accuracy and relevance in specialized contexts.
 
  <img width="500" alt="KNN" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*OltO4Txr-D0lPWNL.png">
 
@@ -37,6 +42,8 @@ A Supervised learning algorithm that stores all available cases and classifies n
 
 A Supervised learning algorithm which has computational models inspired by the structure and function of the human brain. This is composed of interconnected nodes (neurons) that process information using activation functions.
 * Effective for tasks involving complex patterns or relationships in data. Suitable for image recognition, natural language processing, and other tasks where feature engineering is challenging.
+* Select the number of neighbors 𝑘 after cross-validation to find the balance between overfitting and underfitting. Usually, a larger 𝑘 value reduces noise but makes the boundaries between classes less distinct.
+* Consider distance weighting so that nearer neighbors contribute more to the classification than more distant ones, which can enhance classification accuracy in cases where class boundaries are nuanced.
 
  <img width="500" alt="Neural Network" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230602113310/Neural-Networks-Architecture.png">
 
