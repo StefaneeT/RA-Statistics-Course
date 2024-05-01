@@ -5,3 +5,6 @@ Regression analysis is a type of predictive modeling technique used to investiga
 # What is the Purpose of Regression Models?
 
 Regression analysis serves one of two primary purposes: predicting the dependent variable's value given information about the independent variables, or forecasting the impact of an independent variable on the dependent variable.
+
+# Types of Regression Models
+There is a wide array of regression analysis techniques available for predictive purposes. The selection of a specific method depends on several factors, such as the number of independent variables, the shape of the regression curve, and the nature of the dependent variable.
