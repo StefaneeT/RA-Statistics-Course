@@ -26,7 +26,3 @@ General Linear Models (GLM) extend traditional linear regression by allowing for
 Bayesian linear regression applies Bayes' theorem for regression analysis, offering a probabilistic approach to modeling relationships in data. Unlike traditional methods that compute least squares, Bayesian regression estimates the posterior distribution of the features, enhancing the model's stability and reliability.
 
 ![Bayesian](https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/af1c3c82-1b45-4cdd-8e5c-c4e75462fc2f)
-
-### Partial Least Squares Regression
-
-Partial least squares regression is a robust method particularly useful in scenarios with numerous independent variables and potential multicollinearity. It simplifies the complexity by reducing the dataset to fewer predictive components before conducting regression, making it both effective and efficient for large datasets.
