@@ -20,6 +20,8 @@ Similar to ridge regression, lasso regression (Least Absolute Shrinkage and Sele
 
 General Linear Models (GLM) extend traditional linear regression by allowing for response variables that have error distribution models other than a normal distribution. This flexibility makes GLMs suitable for a range of data types, including binary, count, and continuous outcomes, thus providing a versatile framework for analyzing data with various distributions.
 
+![GLM](https://github.com/StefaneeT/RA-Statistics-Course/assets/89051155/621f132d-ed79-4891-9e64-335be17f1375)
+
 ### Bayesian Linear Regression
 Bayesian linear regression applies Bayes' theorem for regression analysis, offering a probabilistic approach to modeling relationships in data. Unlike traditional methods that compute least squares, Bayesian regression estimates the posterior distribution of the features, enhancing the model's stability and reliability.
 
