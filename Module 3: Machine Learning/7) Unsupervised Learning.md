@@ -85,7 +85,6 @@ The first component can be thought of as the line of best fit that minimizes inf
 * Sensitivity to Scaling: PCA is sensitive to the scaling of data, so it's important to standardize the data before applying PCA.
 * Assumption of Linearity: PCA assumes that the data has a linear relationship, which may not be true for all datasets.
 * Loses Original Features: In the transformed space, the original features are lost, which may affect interpretability and decision-making.
-* Difficulty in Determining Number of Components: Deciding the optimal number of principal components can be challenging and may require domain knowledge or trial and error.
 * Not Ideal for Sparse Data: PCA may not perform well on sparse data, where there are many missing or zero values.
 
 
